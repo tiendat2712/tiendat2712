@@ -1,0 +1,63 @@
+{
+  "updated_at": "2026-10-14T19:56:00Z",
+  "username": "tiendat2712",
+  "name": "Phan Trinh Tien Dat",
+  "public_repos_count": 8,
+  "languages": {
+    "total_bytes": 57998245,
+    "breakdown": [
+      {"name": "Python", "bytes": 20014678, "percentage": 34.51, "color": "#3572A5"},
+      {"name": "JavaScript", "bytes": 13242876, "percentage": 22.83, "color": "#F7DF1E"},
+      {"name": "CSS", "bytes": 10470493, "percentage": 18.05, "color": "#563D7C"},
+      {"name": "HTML", "bytes": 5887301, "percentage": 10.15, "color": "#E34C26"},
+      {"name": "TypeScript", "bytes": 3493796, "percentage": 6.02, "color": "#3178C6"},
+      {"name": "Tcl", "bytes": 2251504, "percentage": 3.88, "color": "#E4CC98"},
+      {"name": "Java", "bytes": 828598, "percentage": 1.43, "color": "#B07219"},
+      {"name": "Others", "bytes": 1808999, "percentage": 3.13, "color": "#64748B"}
+    ]
+  },
+  "recent_commits": [
+    {
+      "repo": "tiendat2712/morph3d-ai",
+      "sha": "91f5d25",
+      "date": "2026-10-14",
+      "message": "feat(scan): upgrade 3D scan pipeline with browser E2E, concurrent load benchmarks, and conformal validation",
+      "url": "https://github.com/tiendat2712/morph3d-ai/commit/91f5d25"
+    },
+    {
+      "repo": "tiendat2712/tiendat2712",
+      "sha": "7b2213e",
+      "date": "2026-10-14",
+      "message": "Redesign profile with tech icons and certification goals",
+      "url": "https://github.com/tiendat2712/tiendat2712/commit/7b2213e"
+    },
+    {
+      "repo": "tiendat2712/java-core-mastery",
+      "sha": "c349a2a",
+      "date": "2026-10-12",
+      "message": "feat: iterator practice",
+      "url": "https://github.com/tiendat2712/java-core-mastery/commit/c349a2a"
+    },
+    {
+      "repo": "tiendat2712/java-core-mastery",
+      "sha": "6fdcbb5",
+      "date": "2026-10-09",
+      "message": "feat: Collections introduce",
+      "url": "https://github.com/tiendat2712/java-core-mastery/commit/6fdcbb5"
+    },
+    {
+      "repo": "tiendat2712/identity-service",
+      "sha": "cd32b62",
+      "date": "2026-10-06",
+      "message": "Merge branch 'main' of https://github.com/tiendat2712/identity-service",
+      "url": "https://github.com/tiendat2712/identity-service/commit/cd32b62"
+    },
+    {
+      "repo": "tiendat2712/identity-service",
+      "sha": "2e22606",
+      "date": "2026-10-06",
+      "message": "Initial commit - Encrypt password with Bcrypt",
+      "url": "https://github.com/tiendat2712/identity-service/commit/2e22606"
+    }
+  ]
+}

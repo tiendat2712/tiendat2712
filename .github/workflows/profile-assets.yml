@@ -1,0 +1,51 @@
+name: Update Profile Dynamic Assets
+
+on:
+  schedule:
+    # Run every Sunday at 00:00 UTC (weekly update)
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Enable manual run via GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Generate profile assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_assets.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Only stage generated assets and cache
+          git add assets/hero-3d.gif assets/languages-breakdown.svg assets/github-activity.svg scripts/data/cache.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes in generated assets. Skipping commit."
+          else
+            git commit -m "chore(assets): automated update of profile dynamic assets [skip ci]"
+            git push origin main
+          fi

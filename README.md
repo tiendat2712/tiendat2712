@@ -1,212 +1,249 @@
+<!-- ================================================================= -->
+<!-- HERO BANNER: 3D ANIMATED TOPOLOGY & CORE IDENTITY                 -->
+<!-- ================================================================= -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Build. Ship. Operate. — Backend engineering, cloud infrastructure and reliable delivery." />
+  <img src="./assets/hero-3d.gif" width="100%" alt="Phan Trinh Tien Dat — Backend · Cloud & DevOps Engineer (3D Topology Banner)" />
 </p>
 
 <div align="center">
 
-# Hi, I'm Dat 👋
+# Phan Trinh Tien Dat
 
-### Backend & DevOps Engineer
-
-**Phan Trinh Tien Dat** · Da Nang, Vietnam
-
-I build backend services and automate their journey to the cloud.
+### Backend · Cloud & DevOps Engineer
+**Da Nang, Vietnam** · *Bridging resilient backend microservices and automated cloud platforms.*
 
 <p>
-  <a href="mailto:tiendat.xpbp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Dat" /></a>
-  <a href="https://github.com/tiendat2712?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_code-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" /></a>
+  <a href="mailto:tiendat.xpbp@gmail.com"><img src="https://img.shields.io/badge/Email-tiendat.xpbp@gmail.com-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Tien Dat" /></a>
+  <a href="https://github.com/tiendat2712?tab=repositories"><img src="https://img.shields.io/badge/GitHub-tiendat2712-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub Repositories" /></a>
 </p>
 
-[Tech stack](#tech-stack) &nbsp; / &nbsp; [Certification goals](#certification-goals) &nbsp; / &nbsp; [Learning next](#learning-next)
+[Engineering Focus](#engineering-focus) &nbsp;·&nbsp; [Tech Stack](#technical-stack) &nbsp;·&nbsp; [GitHub Activity](#verified-github-activity) &nbsp;·&nbsp; [Languages](#codebase-language-distribution) &nbsp;·&nbsp; [Certification Goals](#certification-goals) &nbsp;·&nbsp; [Architecture Lab](#hands-on-architecture-blueprint)
 
 </div>
 
-## A little about me
+---
 
-My focus sits where **backend engineering meets infrastructure**: Spring microservices, event-driven systems, and repeatable delivery with AWS, Kubernetes, and Terraform.
+## Engineering Focus
 
-- **Building:** Java & Spring services, Kafka pipelines, and Redis-backed applications.
-- **Automating:** infrastructure provisioning, containerized workloads, and CI/CD workflows.
-- **Going deeper:** distributed systems, GitOps, platform security, and observability.
+My work focuses on the intersection where **software engineering meets platform infrastructure**: designing modular backend services in Java/Spring, provisioning reproducible infrastructure with Terraform, and orchestrating container workloads on AWS and Kubernetes.
 
-## Tech Stack
+- **Backend Engineering:** Java & Spring Boot microservices, REST APIs, asynchronous messaging with Apache Kafka and RabbitMQ, and caching with Redis.
+- **Platform & Delivery:** Containerization with Docker, Kubernetes cluster orchestration, and automated CI/CD pipelines via GitHub Actions and GitLab CI.
+- **Continuous Learning:** Progressing into GitOps with Argo CD, secrets governance with HashiCorp Vault, and distributed tracing with OpenTelemetry.
 
-### Cloud & infrastructure
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="46" height="46" alt="AWS" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="46" height="46" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" width="46" height="46" alt="Kubernetes" title="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" width="46" height="46" alt="Terraform" title="Terraform" />
-  <img src="https://skillicons.dev/icons?i=ansible&amp;theme=dark" width="46" height="46" alt="Ansible" title="Ansible" />
-  <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="46" height="46" alt="Linux" title="Linux" />
+## Verified GitHub Activity
+
+Hoạt động commit gần đây từ các kho lưu trữ công khai của **@tiendat2712**.
+
+<p align="center">
+  <img src="./assets/github-activity.svg" width="100%" alt="Verified Recent GitHub Commits" />
 </p>
 
-**AWS / EKS · Docker · Kubernetes · Terraform · Ansible · Linux**<br>
-Helm for Kubernetes packaging.
+### Commit gần đây có liên kết kiểm chứng
 
-### Delivery & automation
+- **2026-10-14** · [`tiendat2712/morph3d-ai`](https://github.com/tiendat2712/morph3d-ai) · [`91f5d25`](https://github.com/tiendat2712/morph3d-ai/commit/91f5d25) — `feat(scan): upgrade 3D scan pipeline with browser E2E, concurrent load benchmarks, and conformal validation`
+- **2026-10-14** · [`tiendat2712/tiendat2712`](https://github.com/tiendat2712/tiendat2712) · [`7b2213e`](https://github.com/tiendat2712/tiendat2712/commit/7b2213e) — `Redesign profile with tech icons and certification goals`
+- **2026-10-12** · [`tiendat2712/java-core-mastery`](https://github.com/tiendat2712/java-core-mastery) · [`c349a2a`](https://github.com/tiendat2712/java-core-mastery/commit/c349a2a) — `feat: iterator practice`
+- **2026-10-09** · [`tiendat2712/java-core-mastery`](https://github.com/tiendat2712/java-core-mastery) · [`6fdcbb5`](https://github.com/tiendat2712/java-core-mastery/commit/6fdcbb5) — `feat: Collections introduce`
+- **2026-10-06** · [`tiendat2712/identity-service`](https://github.com/tiendat2712/identity-service) · [`cd32b62`](https://github.com/tiendat2712/identity-service/commit/cd32b62) — `Merge branch 'main' of https://github.com/tiendat2712/identity-service`
+- **2026-10-06** · [`tiendat2712/identity-service`](https://github.com/tiendat2712/identity-service) · [`2e22606`](https://github.com/tiendat2712/identity-service/commit/2e22606) — `Initial commit - Encrypt password with Bcrypt`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="46" height="46" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="46" height="46" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" width="46" height="46" alt="GitLab CI/CD" title="GitLab CI/CD" />
-  <img src="https://skillicons.dev/icons?i=jenkins&amp;theme=dark" width="46" height="46" alt="Jenkins" title="Jenkins" />
-  <img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" width="46" height="46" alt="Bash" title="Bash" />
-  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="46" height="46" alt="Python" title="Python" />
+> **Phạm vi & Thời điểm cập nhật**: Dữ liệu commit được trích xuất trực tiếp từ các commit thực tế trong các kho lưu trữ công khai của tài khoản `tiendat2712`. Script tự động cập nhật qua GitHub Actions định kỳ và lưu bản hợp lệ gần nhất khi API bị giới hạn lưu lượng.
+
+---
+
+## Codebase Language Distribution
+
+Biểu đồ thống kê dung lượng mã nguồn qua các kho lưu trữ thực tế của tôi.
+
+<p align="center">
+  <img src="./assets/languages-breakdown.svg" width="100%" alt="Codebase Language Breakdown" />
 </p>
 
-**Git · GitHub Actions · GitLab CI/CD · Jenkins · Bash · Python**<br>
-Versioned configuration and pipelines with YAML.
+> **Phương pháp thống kê & Xử lý fork**:
+> - **Phạm vi**: Tổng hợp trên toàn bộ 8 repository công khai do `@tiendat2712` sở hữu.
+> - **Xử lý fork**: Loại bỏ 100% repository fork nhằm phản ánh trung thực mã nguồn do tác giả tự khởi tạo và phát triển.
+> - **Ý nghĩa số liệu**: Tỷ lệ phần trăm thể hiện **cơ cấu dung lượng byte mã nguồn (codebase volume ratio)** giữa các dự án (Python, JavaScript, CSS, HTML, TypeScript, Java...), **không đại diện cho mức độ thành thạo cá nhân**.
 
-### Backend & event-driven systems
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="46" height="46" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" width="46" height="46" alt="Spring" title="Spring" />
-  <img src="https://skillicons.dev/icons?i=hibernate&amp;theme=dark" width="46" height="46" alt="Hibernate" title="Hibernate" />
-  <img src="https://skillicons.dev/icons?i=kafka&amp;theme=dark" width="46" height="46" alt="Apache Kafka" title="Apache Kafka" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq&amp;theme=dark" width="46" height="46" alt="RabbitMQ" title="RabbitMQ" />
-</p>
+## Technical Stack
 
-**Java · Spring Boot / Cloud · Hibernate / JPA · Kafka · RabbitMQ**<br>
-Domain-driven design, microservices, and asynchronous communication.
+Công nghệ được phân loại rõ ràng theo từng mảng chuyên môn, phân biệt giữa công nghệ đang thực hành trong hồ sơ/dự án và công nghệ thuộc lộ trình học tập.
 
-### Data & observability
+### 1. Backend & Distributed Systems
+*Nền tảng dịch vụ, giao tiếp bất đồng bộ và cơ sở dữ liệu backend.*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="46" height="46" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" width="46" height="46" alt="Redis" title="Redis" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch&amp;theme=dark" width="46" height="46" alt="Elasticsearch" title="Elasticsearch" />
-  <img src="https://skillicons.dev/icons?i=prometheus&amp;theme=dark" width="46" height="46" alt="Prometheus" title="Prometheus" />
-  <img src="https://skillicons.dev/icons?i=grafana&amp;theme=dark" width="46" height="46" alt="Grafana" title="Grafana" />
+  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="44" height="44" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" width="44" height="44" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=hibernate&amp;theme=dark" width="44" height="44" alt="Hibernate" title="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=kafka&amp;theme=dark" width="44" height="44" alt="Apache Kafka" title="Apache Kafka" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq&amp;theme=dark" width="44" height="44" alt="RabbitMQ" title="RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="44" height="44" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" width="44" height="44" alt="Redis" title="Redis" />
 </p>
 
-**PostgreSQL · MySQL · Redis · Elasticsearch · Prometheus · Grafana**<br>
-SQL · OpenTelemetry · Logstash · Kibana · Zipkin.
+- **Trong hồ sơ / Thực hành:** Java 21, Spring Boot, Spring Cloud, Spring Data JPA / Hibernate, Apache Kafka, RabbitMQ, PostgreSQL, MySQL, Redis, RESTful API design.
+- **Hệ sinh thái web & API bổ trợ:** TypeScript, Next.js, Postman, OpenAPI / Swagger, Keycloak.
 
-<details>
-<summary><strong>More in my toolkit — APIs, identity & web</strong></summary>
+### 2. Cloud & Containers
+*Hạ tầng đám mây và môi trường vận hành ứng dụng đóng gói.*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="46" height="46" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="46" height="46" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" width="46" height="46" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="44" height="44" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="44" height="44" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" width="44" height="44" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="44" height="44" alt="Linux" title="Linux" />
 </p>
 
-**TypeScript · Next.js · Postman · Swagger / OpenAPI · Keycloak**
+- **Trong hồ sơ / Thực hành:** Docker (multi-stage builds, image optimization), Kubernetes (Pods, Deployments, Services, ConfigMaps, Secrets), Amazon Web Services (EC2, VPC, S3, RDS, EKS fundamentals), Linux system administration (Ubuntu/Debian, systemd, networking).
+- **Công cụ đóng gói bổ trợ:** Helm charts cơ bản cho Kubernetes.
 
-</details>
+### 3. CI/CD & GitOps
+*Tự động hóa quy trình kiểm thử, đóng gói và triển khai mã nguồn.*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="44" height="44" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="44" height="44" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" width="44" height="44" alt="GitLab CI" title="GitLab CI" />
+  <img src="https://skillicons.dev/icons?i=jenkins&amp;theme=dark" width="44" height="44" alt="Jenkins" title="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" width="44" height="44" alt="Bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="44" height="44" alt="Python" title="Python" />
+</p>
+
+- **Trong hồ sơ / Thực hành:** Git flow, GitHub Actions (automated pipelines, releases, asset generation), GitLab CI/CD, Jenkins pipelines, Bash scripting, Python automation.
+- **Lộ trình học tập (Roadmap Goal):** Argo CD (GitOps deployment reconciliation, automated sync & rollback), Kustomize (environment overlay management).
+
+### 4. Infrastructure as Code (IaC)
+*Định nghĩa và quản lý tài nguyên hạ tầng bằng mã nguồn có thể tái tạo.*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" width="44" height="44" alt="Terraform" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible&amp;theme=dark" width="44" height="44" alt="Ansible" title="Ansible" />
+</p>
+
+- **Trong hồ sơ / Thực hành:** Terraform (HCL syntax, module structures, state management, variables/outputs), Ansible (playbooks cho cấu hình máy chủ Linux).
+- **Lộ trình học tập (Roadmap Goal):** Terraform remote state locking với S3 + DynamoDB, multi-environment isolation (Dev/Staging/Prod).
+
+### 5. Observability & SRE
+*Giám sát hiệu năng hệ thống, thu thập log và cảnh báo độ tin cậy.*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus&amp;theme=dark" width="44" height="44" alt="Prometheus" title="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana&amp;theme=dark" width="44" height="44" alt="Grafana" title="Grafana" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch&amp;theme=dark" width="44" height="44" alt="Elasticsearch" title="Elasticsearch" />
+</p>
+
+- **Trong hồ sơ / Thực hành:** Prometheus (metrics scraping, alerting rules), Grafana (dashboards, telemetry visualization), Elasticsearch (log storage), Zipkin & OpenTelemetry fundamentals.
+- **Lộ trình học tập (Roadmap Goal):** Grafana Loki (log aggregation), Grafana Tempo (distributed tracing), định nghĩa SLI/SLO và thiết lập incident response runbooks.
+
+### 6. DevSecOps & Platform Security
+*Tích hợp bảo mật vào quy trình phát triển và vận hành hệ thống.*
+
+<p>
+  <img src="https://img.shields.io/badge/Trivy-Vulnerability_Scan-0A0F1D?style=for-the-badge&amp;logo=trivy&amp;logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Vault-Secrets_Management-0A0F1D?style=for-the-badge&amp;logo=vault&amp;logoColor=white" alt="Vault" />
+  <img src="https://img.shields.io/badge/SonarQube-Code_Quality-0A0F1D?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/OIDC-Keycloak-0A0F1D?style=for-the-badge&amp;logo=openid&amp;logoColor=white" alt="Keycloak OIDC" />
+</p>
+
+- **Lộ trình học tập (Roadmap Goal):** Quét lỗ hổng container image với Trivy, phát hiện rò rỉ bí mật với Gitleaks, quản lý thông tin bảo mật tập trung với HashiCorp Vault, kiểm soát danh tính và truy cập qua OIDC / Keycloak, quản lý chứng chỉ tự động với cert-manager.
+
+---
 
 ## Certification Goals
 
-My next milestones in cloud and DevOps. **All are goals — none earned yet.**
+> ⚠️ **Cam kết minh bạch về chứng chỉ**:
+> **Tôi hiện chưa sở hữu bất kỳ chứng chỉ nào.** Tất cả các chứng chỉ dưới đây là **mục tiêu học tập có lộ trình rõ ràng (Goals / Planned Milestones)**. Các liên kết dẫn trực tiếp tới cổng thông tin khảo thí chính thức của CNCF, AWS và HashiCorp để người xem tiện tra cứu chuẩn kiến thức.
 
-### Core milestones
-
-<p>
-  <a href="https://www.cncf.io/training/certification/cka/"><img src="https://img.shields.io/badge/CKA-GOAL-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Administrator — goal, not earned" /></a>
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/AWS_SAA-GOAL-B65B00?style=for-the-badge" alt="AWS Certified Solutions Architect – Associate — goal, not earned" /></a>
-  <a href="https://docs.hashicorp.com/certifications/terraform-associate"><img src="https://img.shields.io/badge/Terraform_Associate-GOAL-7047EB?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="HashiCorp Certified: Terraform Associate — goal, not earned" /></a>
-</p>
-
-Kubernetes administration &nbsp; · &nbsp; AWS architecture &nbsp; · &nbsp; Infrastructure as Code
-
-### Further down the road
+### Mục tiêu trọng tâm (Core Milestone Goals)
 
 <p>
-  <a href="https://www.cncf.io/training/certification/ckad/"><img src="https://img.shields.io/badge/CKAD-FUTURE_GOAL-245B91?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Application Developer — future goal" /></a>
-  <a href="https://www.cncf.io/training/certification/cks/"><img src="https://img.shields.io/badge/CKS-AFTER_CKA-245B91?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Security Specialist — goal after passing CKA" /></a>
-  <a href="https://aws.amazon.com/certification/certified-devops-engineer-professional/"><img src="https://img.shields.io/badge/AWS_DevOps_Pro-LONG_TERM_GOAL-85501C?style=for-the-badge" alt="AWS Certified DevOps Engineer – Professional — long-term goal" /></a>
+  <a href="https://www.cncf.io/training/certification/cka/"><img src="https://img.shields.io/badge/CKA-MỤC_TIÊU_HỌC_TẬP_[GOAL]-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Administrator — Mục tiêu học tập, chưa sở hữu" /></a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/AWS_SAA-MỤC_TIÊU_HỌC_TẬP_[GOAL]-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=black" alt="AWS Certified Solutions Architect Associate — Mục tiêu học tập, chưa sở hữu" /></a>
+  <a href="https://docs.hashicorp.com/certifications/terraform-associate"><img src="https://img.shields.io/badge/Terraform_Associate-MỤC_TIÊU_HỌC_TẬP_[GOAL]-7047EB?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="HashiCorp Terraform Associate — Mục tiêu học tập, chưa sở hữu" /></a>
 </p>
 
-Application delivery &nbsp; · &nbsp; Kubernetes security &nbsp; · &nbsp; Cloud operations
+- **Certified Kubernetes Administrator (CKA):** *Mục tiêu [GOAL]* — Vận hành cụm Kubernetes thực tế: cluster architecture, etcd backup/restore, networking, persistent storage, scheduling và khắc phục sự cố node/pod.
+- **AWS Solutions Architect – Associate (AWS SAA):** *Mục tiêu [GOAL]* — Thiết kế kiến trúc đám mây AWS bền bỉ, an toàn, hiệu năng cao và tối ưu chi phí (VPC, Multi-AZ, IAM, Auto Scaling, S3, RDS).
+- **HashiCorp Certified: Terraform Associate 003:** *Mục tiêu [GOAL]* — Chuẩn hóa quy trình Infrastructure as Code: state lifecycle, module reuse, execution plans, và biến môi trường.
 
-<details>
-<summary><strong>What I want to learn through these certifications</strong></summary>
-
-- **Certified Kubernetes Administrator (CKA):** cluster administration, networking, storage, and troubleshooting.
-- **AWS Certified Solutions Architect – Associate:** resilient, secure, and cost-aware AWS architectures.
-- **HashiCorp Certified: Terraform Associate:** configuration, state, and repeatable infrastructure workflows.
-- **Certified Kubernetes Application Developer (CKAD):** application configuration, deployment, and workloads.
-- **Certified Kubernetes Security Specialist (CKS):** cluster hardening, supply-chain protection, and runtime security. Goal after passing CKA, as required by the program.
-- **AWS Certified DevOps Engineer – Professional:** delivery automation, monitoring, resilience, and operations at a deeper level.
-
-The badges above link to the official certification programs.
-
-</details>
-
-## Learning Next
-
-Tools and practices I want to develop through labs and projects.
+### Mục tiêu nâng cao & dài hạn (Advanced Planned Milestones)
 
 <p>
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&amp;logo=argo&amp;logoColor=white" alt="Learning goal: Argo CD" />
-  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Learning goal: Kustomize" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&amp;logo=trivy&amp;logoColor=white" alt="Learning goal: Trivy" />
-  <img src="https://img.shields.io/badge/Vault-253745?style=flat-square&amp;logo=vault&amp;logoColor=white" alt="Learning goal: HashiCorp Vault" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Learning goal: Grafana Loki" />
-  <img src="https://img.shields.io/badge/Tempo-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Learning goal: Grafana Tempo" />
+  <a href="https://www.cncf.io/training/certification/ckad/"><img src="https://img.shields.io/badge/CKAD-KẾ_HOẠCH_[PLANNED]-245B91?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Application Developer — Kế hoạch, chưa sở hữu" /></a>
+  <a href="https://www.cncf.io/training/certification/cks/"><img src="https://img.shields.io/badge/CKS-KẾ_HOẠCH_SAU_CKA_[PLANNED]-1C446E?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Security Specialist — Kế hoạch sau CKA, chưa sở hữu" /></a>
+  <a href="https://aws.amazon.com/certification/certified-devops-engineer-professional/"><img src="https://img.shields.io/badge/AWS_DevOps_Pro-MỤC_TIÊU_DÀI_HẠN_[LONG_TERM]-8C4F00?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS Certified DevOps Engineer Professional — Mục tiêu dài hạn, chưa sở hữu" /></a>
 </p>
 
-**GitOps & platform delivery**<br>
-Argo CD, Kustomize, and ECR — practice deployment reconciliation, drift detection, and rollback.
+- **Certified Kubernetes Application Developer (CKAD):** *Kế hoạch [PLANNED]* — Đóng gói, kiểm soát vòng đời ứng dụng trên k8s, Canary/Blue-Green deployments, probe và volume configurations.
+- **Certified Kubernetes Security Specialist (CKS):** *Kế hoạch [PLANNED SAU CKA]* — Tăng cường bảo mật cụm: cluster hardening, container runtime security, network policies và giảm thiểu bề mặt tấn công.
+- **AWS Certified DevOps Engineer – Professional:** *Mục tiêu dài hạn [LONG-TERM GOAL]* — Tự động hóa phân phối ứng dụng quy mô lớn, giám sát hệ thống phân tán, chiến lược phục hồi sự cố tự động (DR) trên AWS.
 
-**DevSecOps & identity**<br>
-Trivy, SonarQube, Gitleaks, Vault, and OIDC — build security checks and secret management into delivery.
+---
 
-**Observability & reliability**<br>
-Loki, Tempo, Alertmanager, and SLIs/SLOs — connect telemetry to useful alerts and incident runbooks.
+## Hands-on Architecture Blueprint
 
-<details>
-<summary><strong>Explore the rest of my DevOps learning plan</strong></summary>
+Mô hình kiến trúc tham chiếu cho các lab thực hành từ commit mã nguồn tới hệ thống giám sát tự động:
 
-- **AWS foundations:** IAM, VPC, EC2, S3, RDS, Route 53, and CloudWatch.
-- **Kubernetes operations:** RBAC, NetworkPolicy, HPA, health probes, resource limits, storage, Gateway API, and backup/recovery.
-- **Linux & networking:** TCP/IP, DNS, HTTP/TLS, NGINX, systemd, and connectivity troubleshooting.
-- **Infrastructure quality:** Terraform modules, remote state, state locking, and environment isolation.
-- **Security:** SBOMs, External Secrets Operator, cert-manager, and short-lived credentials.
-- **Reliability:** error budgets, distributed tracing, and recovery exercises.
-- **Distributed systems:** SAGA workflows, circuit breakers, bulkheads, and caching strategies.
+```mermaid
+flowchart LR
+    subgraph SCM["1. Source Control"]
+        Commit["Git Commit\n(Backend Code & IaC)"]
+    end
 
-</details>
+    subgraph CI["2. Continuous Integration"]
+        Lint["Unit Test\n& Linter"]
+        Sec["Security Check\n(Gitleaks / Trivy)"]
+        Build["Docker Build\nMulti-stage"]
+        ECR["Push Image\nAmazon ECR"]
+    end
 
-<details>
-<summary><strong>Lab blueprint — from commit to observable service</strong></summary>
+    subgraph CD["3. GitOps Delivery"]
+        GitOpsRepo["GitOps Repo\n(K8s Manifests)"]
+        Argo["Argo CD\nReconciliation"]
+    end
 
-A target architecture for practicing these skills.
+    subgraph Runtime["4. Cloud Infrastructure"]
+        TF["Terraform IaC\n(VPC, Subnets, IAM)"]
+        EKS["Amazon EKS Cluster\nWorker Nodes & Pods"]
+    end
 
-~~~mermaid
-flowchart TD
-    A[Source commit] --> B[Test and security checks]
-    B --> C[Build and scan image]
-    C --> D[Publish to Amazon ECR]
-    D --> E[Review image digest in GitOps repo]
-    E --> F[Argo CD + Helm]
-    F --> G[Application on Amazon EKS]
-    T[Terraform infrastructure] --> G
-    G --> H[OpenTelemetry]
-    H --> I[Metrics, logs and traces]
-    I --> J[Grafana dashboards and alerts]
-    J --> K[Investigate and improve]
+    subgraph Obs["5. Observability"]
+        OTel["OpenTelemetry Collector"]
+        Prom["Prometheus Metrics"]
+        Graf["Grafana Dashboards & Alerts"]
+    end
 
-    classDef core fill:#0f172a,stroke:#38bdf8,color:#f1f5f9;
-    classDef telemetry fill:#132c35,stroke:#5eead4,color:#f1f5f9;
-    class A,B,C,D,E,F,G,T core;
-    class H,I,J,K telemetry;
-~~~
+    Commit --> Lint --> Sec --> Build --> ECR
+    Build -.-> GitOpsRepo
+    GitOpsRepo --> Argo
+    TF ==> EKS
+    Argo ==> EKS
+    EKS --> OTel
+    OTel --> Prom --> Graf
 
-</details>
+    classDef darkBox fill:#0b1120,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc;
+    classDef runtimeBox fill:#0f172a,stroke:#2dd4bf,stroke-width:1.5px,color:#f8fafc;
+    classDef obsBox fill:#082f49,stroke:#34d399,stroke-width:1.5px,color:#f8fafc;
+
+    class Commit,Lint,Sec,Build,ECR,GitOpsRepo,Argo darkBox;
+    class TF,EKS runtimeBox;
+    class OTel,Prom,Graf obsBox;
+```
 
 ---
 
 <div align="center">
 
-**Let's connect over backend systems, cloud, and better developer workflows.**
+### Let's collaborate & build reliable platforms
 
-[Email](mailto:tiendat.xpbp@gmail.com) &nbsp; · &nbsp; [Facebook](https://www.facebook.com/tien.at.563335) &nbsp; · &nbsp; [Instagram](https://www.instagram.com/johnleynguci/)
+[Email: tiendat.xpbp@gmail.com](mailto:tiendat.xpbp@gmail.com) &nbsp;·&nbsp; [GitHub: tiendat2712](https://github.com/tiendat2712) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/tien.at.563335) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/johnleynguci/)
 
-<sub>Phan Trinh Tien Dat · Da Nang, Vietnam</sub>
+<sub>Phan Trinh Tien Dat · Da Nang, Vietnam · Crafted with genuine 3D perspective animation and verified GitHub telemetry</sub>
 
 </div>

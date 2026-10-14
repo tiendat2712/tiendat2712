@@ -1,0 +1,15 @@
+# Local guides and archives explicitly excluded from repository
+HUONG-DAN.md
+*.zip
+
+# Python & runtime artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Temporary and log files
+*.log
+*.tmp
+tmp/

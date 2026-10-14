@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="290" viewBox="0 0 860 290" fill="none">
+  <rect width="860" height="290" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.5" />
+  
+  <text x="40" y="44" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700">VERIFIED RECENT GITHUB COMMITS</text>
+  <text x="40" y="62" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">Phạm vi: Toàn bộ commit thật trên các kho lưu trữ công khai của @tiendat2712</text>
+  
+  <g transform="translate(680, 28)">
+    <rect x="0" y="0" width="140" height="26" rx="6" fill="#064e3b" stroke="#059669" stroke-width="1" />
+    <circle cx="14" cy="13" r="4" fill="#34d399" />
+    <text x="25" y="17" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">LIVE COMMITS</text>
+  </g>
+  
+  
+        <g transform="translate(40, 78)">
+          <rect x="0" y="0" width="780" height="30" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+          <text x="14" y="19" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">2026-10-14</text>
+          <rect x="94" y="5" width="130" height="20" rx="4" fill="#1e293b" />
+          <text x="159" y="19" text-anchor="middle" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">morph3d-ai</text>
+          <rect x="232" y="5" width="64" height="20" rx="4" fill="#1e3a5f" />
+          <text x="264" y="19" text-anchor="middle" fill="#7dd3fc" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" font-weight="600">91f5d25</text>
+          <text x="306" y="19" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">feat(scan): upgrade 3D scan pipeline with browser...</text>
+        </g>
+        
+        <g transform="translate(40, 114)">
+          <rect x="0" y="0" width="780" height="30" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+          <text x="14" y="19" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">2026-10-14</text>
+          <rect x="94" y="5" width="130" height="20" rx="4" fill="#1e293b" />
+          <text x="159" y="19" text-anchor="middle" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">tiendat2712</text>
+          <rect x="232" y="5" width="64" height="20" rx="4" fill="#1e3a5f" />
+          <text x="264" y="19" text-anchor="middle" fill="#7dd3fc" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" font-weight="600">7b2213e</text>
+          <text x="306" y="19" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">Redesign profile with tech icons and certificatio...</text>
+        </g>
+        
+        <g transform="translate(40, 150)">
+          <rect x="0" y="0" width="780" height="30" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+          <text x="14" y="19" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">2026-10-12</text>
+          <rect x="94" y="5" width="130" height="20" rx="4" fill="#1e293b" />
+          <text x="159" y="19" text-anchor="middle" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">java-core-mastery</text>
+          <rect x="232" y="5" width="64" height="20" rx="4" fill="#1e3a5f" />
+          <text x="264" y="19" text-anchor="middle" fill="#7dd3fc" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" font-weight="600">c349a2a</text>
+          <text x="306" y="19" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">feat: iterator practice</text>
+        </g>
+        
+        <g transform="translate(40, 186)">
+          <rect x="0" y="0" width="780" height="30" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+          <text x="14" y="19" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">2026-10-09</text>
+          <rect x="94" y="5" width="130" height="20" rx="4" fill="#1e293b" />
+          <text x="159" y="19" text-anchor="middle" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">java-core-mastery</text>
+          <rect x="232" y="5" width="64" height="20" rx="4" fill="#1e3a5f" />
+          <text x="264" y="19" text-anchor="middle" fill="#7dd3fc" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" font-weight="600">6fdcbb5</text>
+          <text x="306" y="19" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">feat: Collections introduce</text>
+        </g>
+        
+        <g transform="translate(40, 222)">
+          <rect x="0" y="0" width="780" height="30" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+          <text x="14" y="19" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500">2026-10-06</text>
+          <rect x="94" y="5" width="130" height="20" rx="4" fill="#1e293b" />
+          <text x="159" y="19" text-anchor="middle" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600">identity-service</text>
+          <rect x="232" y="5" width="64" height="20" rx="4" fill="#1e3a5f" />
+          <text x="264" y="19" text-anchor="middle" fill="#7dd3fc" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" font-weight="600">cd32b62</text>
+          <text x="306" y="19" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">Merge branch 'main' of https://github.com/tiendat...</text>
+        </g>
+        
+  
+  <line x1="40" y1="262" x2="820" y2="262" stroke="#1e293b" stroke-width="1" />
+  <text x="40" y="278" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Dữ liệu thực tế từ git log và GitHub API. Cập nhật lần cuối: 2026-10-14T19:56:00Z.</text>
+</svg>
