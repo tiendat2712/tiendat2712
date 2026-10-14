@@ -1,114 +1,156 @@
-<div align="center">
-
-# Hi there, I'm Phan Trinh Tien Dat 👋
-
-### 🚀 Backend & DevOps Engineer | Cloud & Distributed Systems Enthusiast
-📍 **Da Nang, Vietnam**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+%26+DevOps+Engineer;Architecting+Scalable+Microservices;Event-Driven+Architecture+%7C+Spring+Boot+%26+Kafka;Cloud-Native+Automation+%7C+Docker+%26+Kubernetes;AWS+Solutions+Architect+Aspirant)](https://git.io/typing-svg)
-
 <p align="center">
-  <a href="mailto:tiendat.xpbp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/tien.at.563335" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/johnleynguci/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Build. Ship. Operate. — Backend engineering, cloud infrastructure and reliable delivery." />
 </p>
 
----
+<div align="center">
+
+# Phan Trinh Tien Dat
+
+**Backend & DevOps Engineer** · Da Nang, Vietnam
+
+Building resilient services. Automating the path from code to cloud.
+
+<p>
+  <a href="mailto:tiendat.xpbp@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email Dat" /></a>
+  <a href="#technical-stack"><img src="https://img.shields.io/badge/Explore_the_stack-0F172A?style=for-the-badge&logo=stackshare&logoColor=67E8F9" alt="Explore the technical stack" /></a>
+  <a href="#certification-goals"><img src="https://img.shields.io/badge/Certification_goals-0F172A?style=for-the-badge&logo=bookstack&logoColor=67E8F9" alt="View certification goals" /></a>
+</p>
+
+[About](#about) &nbsp; / &nbsp; [Stack](#technical-stack) &nbsp; / &nbsp; [DevOps roadmap](#devops-learning-roadmap) &nbsp; / &nbsp; [Certifications](#certification-goals)
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-- 🔭 **Specialization:** Building high-performance, resilient, and secure **Backend Systems** & automating **DevOps Pipelines**.
-- ⚙️ **Architecture Focus:** Microservices with **Spring Boot 3 / Spring Cloud**, **Domain-Driven Design (DDD)**, and **Event-Driven Architectures** powered by Apache Kafka & RabbitMQ.
-- ☁️ **Cloud & Infrastructure:** Containerized workloads with **Docker & Kubernetes (EKS)**, automated IaC workflows with **Terraform & Ansible**, and robust multi-stage CI/CD pipelines.
-- 🎯 **Current Focus & Goals:** 
-  - Preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** certification.
-  - Deepening expertise in **Distributed Systems Patterns** (SAGA pattern, Circuit Breakers, Bulkhead, Distributed Tracing).
-- 📍 Based in **Da Nang, Vietnam** 🇻🇳.
-- 💬 Ask me about **Java, Spring ecosystem, High-concurrency caching with Redis, Kafka pipelines, and Cloud observability.**
+## About
+
+I'm Dat, a backend and DevOps engineer interested in the full journey of a service: **how it is designed, delivered, and operated**.
+
+My focus is on **Java and Spring microservices**, **event-driven systems**, and **cloud infrastructure automation**. I enjoy connecting application architecture with the infrastructure that keeps it running.
+
+- **Backend engineering** — Spring Boot, Spring Cloud, domain-driven design, Kafka, RabbitMQ, and Redis.
+- **Cloud & delivery** — AWS, Docker, Kubernetes/EKS, Terraform, Ansible, and CI/CD pipelines.
+- **Engineering growth** — distributed systems, GitOps, platform security, and service reliability.
+
+## Technical Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=FBBF24" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=86EFAC" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FBBF24" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=67E8F9" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=93C5FD" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-0F172A?style=for-the-badge&logo=terraform&logoColor=C4B5FD" alt="Terraform" />
+</p>
+
+### Cloud, infrastructure & delivery
+
+| Area | Technologies |
+| :--- | :--- |
+| **Cloud & containers** | AWS · Amazon EKS · Docker · Kubernetes · Helm |
+| **Infrastructure as Code** | Terraform · Ansible |
+| **CI/CD & source control** | GitHub Actions · GitLab CI/CD · Jenkins · Git |
+| **Systems & automation** | Linux · Bash / Shell · Python · YAML |
+| **Observability** | Prometheus · Grafana · OpenTelemetry · Elasticsearch · Logstash · Kibana · Zipkin |
+
+### Backend & data
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Java · SQL · Python · TypeScript |
+| **Services & persistence** | Spring Boot · Spring Cloud · Hibernate / JPA |
+| **Identity & APIs** | Keycloak · Swagger / OpenAPI · Postman |
+| **Databases & caching** | PostgreSQL · MySQL · Redis · Elasticsearch |
+| **Messaging & streaming** | Apache Kafka · RabbitMQ |
+| **Web tooling** | Next.js |
+
+## DevOps Learning Roadmap
+
+The next tools and practices I want to develop through focused labs and projects.
+
+<p>
+  <img src="https://img.shields.io/badge/GitOps-Argo_CD-0F172A?style=flat-square&logo=argo&logoColor=67E8F9&labelColor=164E63" alt="GitOps learning goal: Argo CD" />
+  <img src="https://img.shields.io/badge/Security-Trivy-0F172A?style=flat-square&logo=trivy&logoColor=67E8F9&labelColor=164E63" alt="Security learning goal: Trivy" />
+  <img src="https://img.shields.io/badge/Secrets-Vault-0F172A?style=flat-square&logo=vault&logoColor=67E8F9&labelColor=164E63" alt="Secrets learning goal: Vault" />
+  <img src="https://img.shields.io/badge/Logs-Loki-0F172A?style=flat-square&logo=grafana&logoColor=67E8F9&labelColor=164E63" alt="Logging learning goal: Loki" />
+</p>
+
+| Track | Tools & concepts to explore | Practice goal |
+| :--- | :--- | :--- |
+| **GitOps & releases** | Argo CD · Kustomize · Helm · Amazon ECR | Version deployment configuration, detect drift, and practice rollback. |
+| **AWS foundations** | IAM · VPC · EC2 · S3 · RDS · Route 53 · CloudWatch | Build a networked application environment with scoped access and useful telemetry. |
+| **Kubernetes operations** | RBAC · NetworkPolicy · HPA · probes · resource limits · storage · Gateway API | Deploy, scale, and troubleshoot workloads; practice cluster backup and recovery. |
+| **Networking & Linux** | TCP/IP · DNS · HTTP/TLS · NGINX · systemd | Trace connectivity problems from process to endpoint. |
+| **DevSecOps** | Trivy · SonarQube · Gitleaks · SBOMs | Add image, code, and secret checks to a delivery pipeline. |
+| **Secrets & identity** | HashiCorp Vault · External Secrets Operator · cert-manager · OIDC | Explore secret delivery, certificate automation, and short-lived CI credentials. |
+| **Observability & SRE** | Grafana Loki · Tempo · Alertmanager · SLIs/SLOs · error budgets | Correlate logs, metrics, and traces; write actionable alerts and incident runbooks. |
+| **Infrastructure quality** | Terraform modules · remote state · state locking · environment isolation | Make infrastructure changes reviewable, repeatable, and easier to recover. |
+
+<details>
+<summary><strong>Learning blueprint · from commit to observable service</strong></summary>
+
+This is a target lab architecture for practicing the roadmap above.
+
+```mermaid
+flowchart TD
+    A[Source commit] --> B[CI: test and security checks]
+    B --> C[Build and scan container image]
+    C --> D[Publish image to Amazon ECR]
+    D --> E[Review image digest update in GitOps repo]
+    E --> F[Argo CD reconciles Helm manifests]
+    F --> G[Application on Amazon EKS]
+    T[Terraform: AWS infrastructure] --> G
+    G --> H[OpenTelemetry instrumentation]
+    H --> I[Metrics, logs and traces]
+    I --> J[Grafana dashboards and alerts]
+    J --> K[Investigate and improve]
+
+    classDef core fill:#0f172a,stroke:#38bdf8,color:#f1f5f9;
+    classDef support fill:#132c35,stroke:#5eead4,color:#f1f5f9;
+    class A,B,C,D,E,F,G core;
+    class T,H,I,J,K support;
+```
+
+**Backend architecture interests:** domain-driven design, event-driven communication, SAGA workflows, circuit breakers, bulkheads, caching, and distributed tracing.
+
+</details>
+
+## Certification Goals
+
+**All certifications below are future goals; none have been earned yet.**
+
+<p>
+  <img src="https://img.shields.io/badge/CKA-GOAL-0F172A?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1D4ED8" alt="CKA — goal, not yet earned" />
+  <img src="https://img.shields.io/badge/AWS_SAA-GOAL-0F172A?style=for-the-badge&labelColor=92400E" alt="AWS Solutions Architect Associate — goal, not yet earned" />
+  <img src="https://img.shields.io/badge/Terraform-GOAL-0F172A?style=for-the-badge&logo=terraform&logoColor=white&labelColor=6D28D9" alt="Terraform Associate — goal, not yet earned" />
+</p>
+
+### Foundation & core goals
+
+| Certification | Learning focus | Status |
+| :--- | :--- | :--- |
+| [**AWS Certified Solutions Architect – Associate**](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Resilient, secure, and cost-aware AWS architectures | Planned |
+| [**Certified Kubernetes Administrator (CKA)**](https://www.cncf.io/training/certification/cka/) | Cluster administration, networking, storage, and troubleshooting | Planned |
+| [**HashiCorp Certified: Terraform Associate**](https://docs.hashicorp.com/certifications/terraform-associate) | IaC fundamentals, configuration, state, and core workflows | Planned |
+
+### Further specialization
+
+| Certification | Learning focus | Status |
+| :--- | :--- | :--- |
+| [**Certified Kubernetes Application Developer (CKAD)**](https://www.cncf.io/training/certification/ckad/) | Application configuration and workloads on Kubernetes | Future goal |
+| [**Certified Kubernetes Security Specialist (CKS)**](https://www.cncf.io/training/certification/cks/) | Cluster hardening, supply chain, and runtime security | After passing CKA |
+| [**AWS Certified DevOps Engineer – Professional**](https://aws.amazon.com/certification/certified-devops-engineer-professional/) | Delivery automation, monitoring, resilience, and operations on AWS | Long-term goal |
+
+<sub>Certification names link to official programs. CKS requires passing CKA before attempting the exam.</sub>
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+<div align="center">
 
-### 💻 Languages & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash_/_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
-</p>
+**Let's talk backend systems, cloud infrastructure, and developer workflows.**
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
-  <img src="https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/Keycloak-005571?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
+[Email](mailto:tiendat.xpbp@gmail.com) &nbsp; · &nbsp; [Facebook](https://www.facebook.com/tien.at.563335) &nbsp; · &nbsp; [Instagram](https://www.instagram.com/johnleynguci/)
 
-### 🗄️ Databases & Caching
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-</p>
+<sub>Phan Trinh Tien Dat · Da Nang, Vietnam</sub>
 
-### 📨 Messaging & Streaming
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-</p>
-
-### ☁️ Cloud & DevOps Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### 🔄 CI/CD & Version Control
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### 📊 Observability & Monitoring
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Logstash" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
-  <img src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=apache&logoColor=white" alt="Zipkin" />
-</p>
-
-### 🧰 API & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-</p>
-
----
-
-## 🏛️ System Architecture & Engineering Focus
+</div>

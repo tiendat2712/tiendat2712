@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Build. Ship. Operate.</title>
+  <desc id="desc">Backend engineering, cloud infrastructure and reliable delivery. A navy and cyan banner with an abstract connected infrastructure diagram.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e3447" stroke-width="1" opacity=".38"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="#0c1522"/>
+  <rect x="700" width="500" height="360" fill="url(#grid)"/>
+  <rect x="48" y="48" width="32" height="4" rx="2" fill="#67e8f9"/>
+  <text x="96" y="55" fill="#a7b9cf" font-family="Consolas,monospace" font-size="14" letter-spacing="3">BACKEND / DEVOPS</text>
+  <text x="46" y="146" fill="#f3f7fc" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="72" letter-spacing="-3">Build. Ship.</text>
+  <text x="46" y="224" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="72" letter-spacing="-3">Operate.</text>
+  <text x="50" y="274" fill="#a7b9cf" font-family="Segoe UI,Arial,sans-serif" font-size="19">Thoughtful systems. Repeatable infrastructure.</text>
+  <text x="50" y="318" fill="#69839f" font-family="Consolas,monospace" font-size="13" letter-spacing="2">CODE → CLOUD → CONTINUOUS IMPROVEMENT</text>
+  <g fill="none" stroke="#2c5369" stroke-width="2">
+    <path d="M760 101H844V180H902M760 259H844V180M1014 180H1094"/>
+    <path d="M958 122V65H1094M958 238V295H1094"/>
+    <circle cx="958" cy="180" r="88" stroke-dasharray="4 8" opacity=".65"/>
+  </g>
+  <g fill="#132333" stroke="#36536a">
+    <rect x="688" y="73" width="116" height="56" rx="9"/>
+    <rect x="688" y="231" width="116" height="56" rx="9"/>
+    <rect x="902" y="122" width="112" height="116" rx="16" stroke="#67e8f9"/>
+    <rect x="1060" y="37" width="92" height="56" rx="9"/>
+    <rect x="1060" y="152" width="92" height="56" rx="9"/>
+    <rect x="1060" y="267" width="92" height="56" rx="9"/>
+  </g>
+  <g fill="#b8cadc" font-family="Consolas,monospace" font-size="15" text-anchor="middle">
+    <text x="746" y="107">SOURCE</text><text x="746" y="265">IaC</text>
+    <text x="1106" y="71">BUILD</text><text x="1106" y="186">SHIP</text><text x="1106" y="301">OBSERVE</text>
+  </g>
+  <g fill="none" stroke="#67e8f9" stroke-width="2"><path d="M937 158L958 146L979 158V182L958 194L937 182ZM937 158L958 170L979 158M958 170V194"/></g>
+  <text x="958" y="218" fill="#67e8f9" font-family="Consolas,monospace" font-size="14" text-anchor="middle">PLATFORM</text>
+  <g fill="#67e8f9"><circle cx="844" cy="180" r="4"/><circle cx="958" cy="65" r="4"/><circle cx="958" cy="295" r="4"/></g>
+</svg>
