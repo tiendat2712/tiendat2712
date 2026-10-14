@@ -4,150 +4,206 @@
 
 <div align="center">
 
-# Phan Trinh Tien Dat
+# Hi, I'm Dat 👋
 
-**Backend & DevOps Engineer** · Da Nang, Vietnam
+### Backend & DevOps Engineer
 
-Building resilient services. Automating the path from code to cloud.
+**Phan Trinh Tien Dat** · Da Nang, Vietnam
+
+I build backend services and automate their journey to the cloud.
 
 <p>
-  <a href="mailto:tiendat.xpbp@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email Dat" /></a>
-  <a href="#technical-stack"><img src="https://img.shields.io/badge/Explore_the_stack-0F172A?style=for-the-badge&logo=stackshare&logoColor=67E8F9" alt="Explore the technical stack" /></a>
-  <a href="#certification-goals"><img src="https://img.shields.io/badge/Certification_goals-0F172A?style=for-the-badge&logo=bookstack&logoColor=67E8F9" alt="View certification goals" /></a>
+  <a href="mailto:tiendat.xpbp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Dat" /></a>
+  <a href="https://github.com/tiendat2712?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_code-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" /></a>
 </p>
 
-[About](#about) &nbsp; / &nbsp; [Stack](#technical-stack) &nbsp; / &nbsp; [DevOps roadmap](#devops-learning-roadmap) &nbsp; / &nbsp; [Certifications](#certification-goals)
+[Tech stack](#tech-stack) &nbsp; / &nbsp; [Certification goals](#certification-goals) &nbsp; / &nbsp; [Learning next](#learning-next)
 
 </div>
 
----
+## A little about me
 
-## About
+My focus sits where **backend engineering meets infrastructure**: Spring microservices, event-driven systems, and repeatable delivery with AWS, Kubernetes, and Terraform.
 
-I'm Dat, a backend and DevOps engineer interested in the full journey of a service: **how it is designed, delivered, and operated**.
+- **Building:** Java & Spring services, Kafka pipelines, and Redis-backed applications.
+- **Automating:** infrastructure provisioning, containerized workloads, and CI/CD workflows.
+- **Going deeper:** distributed systems, GitOps, platform security, and observability.
 
-My focus is on **Java and Spring microservices**, **event-driven systems**, and **cloud infrastructure automation**. I enjoy connecting application architecture with the infrastructure that keeps it running.
+## Tech Stack
 
-- **Backend engineering** — Spring Boot, Spring Cloud, domain-driven design, Kafka, RabbitMQ, and Redis.
-- **Cloud & delivery** — AWS, Docker, Kubernetes/EKS, Terraform, Ansible, and CI/CD pipelines.
-- **Engineering growth** — distributed systems, GitOps, platform security, and service reliability.
-
-## Technical Stack
+### Cloud & infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=FBBF24" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=86EFAC" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FBBF24" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=67E8F9" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=93C5FD" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-0F172A?style=for-the-badge&logo=terraform&logoColor=C4B5FD" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="46" height="46" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="46" height="46" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" width="46" height="46" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" width="46" height="46" alt="Terraform" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible&amp;theme=dark" width="46" height="46" alt="Ansible" title="Ansible" />
+  <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="46" height="46" alt="Linux" title="Linux" />
 </p>
 
-### Cloud, infrastructure & delivery
+**AWS / EKS · Docker · Kubernetes · Terraform · Ansible · Linux**<br>
+Helm for Kubernetes packaging.
 
-| Area | Technologies |
-| :--- | :--- |
-| **Cloud & containers** | AWS · Amazon EKS · Docker · Kubernetes · Helm |
-| **Infrastructure as Code** | Terraform · Ansible |
-| **CI/CD & source control** | GitHub Actions · GitLab CI/CD · Jenkins · Git |
-| **Systems & automation** | Linux · Bash / Shell · Python · YAML |
-| **Observability** | Prometheus · Grafana · OpenTelemetry · Elasticsearch · Logstash · Kibana · Zipkin |
-
-### Backend & data
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Java · SQL · Python · TypeScript |
-| **Services & persistence** | Spring Boot · Spring Cloud · Hibernate / JPA |
-| **Identity & APIs** | Keycloak · Swagger / OpenAPI · Postman |
-| **Databases & caching** | PostgreSQL · MySQL · Redis · Elasticsearch |
-| **Messaging & streaming** | Apache Kafka · RabbitMQ |
-| **Web tooling** | Next.js |
-
-## DevOps Learning Roadmap
-
-The next tools and practices I want to develop through focused labs and projects.
+### Delivery & automation
 
 <p>
-  <img src="https://img.shields.io/badge/GitOps-Argo_CD-0F172A?style=flat-square&logo=argo&logoColor=67E8F9&labelColor=164E63" alt="GitOps learning goal: Argo CD" />
-  <img src="https://img.shields.io/badge/Security-Trivy-0F172A?style=flat-square&logo=trivy&logoColor=67E8F9&labelColor=164E63" alt="Security learning goal: Trivy" />
-  <img src="https://img.shields.io/badge/Secrets-Vault-0F172A?style=flat-square&logo=vault&logoColor=67E8F9&labelColor=164E63" alt="Secrets learning goal: Vault" />
-  <img src="https://img.shields.io/badge/Logs-Loki-0F172A?style=flat-square&logo=grafana&logoColor=67E8F9&labelColor=164E63" alt="Logging learning goal: Loki" />
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="46" height="46" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="46" height="46" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" width="46" height="46" alt="GitLab CI/CD" title="GitLab CI/CD" />
+  <img src="https://skillicons.dev/icons?i=jenkins&amp;theme=dark" width="46" height="46" alt="Jenkins" title="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" width="46" height="46" alt="Bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="46" height="46" alt="Python" title="Python" />
 </p>
 
-| Track | Tools & concepts to explore | Practice goal |
-| :--- | :--- | :--- |
-| **GitOps & releases** | Argo CD · Kustomize · Helm · Amazon ECR | Version deployment configuration, detect drift, and practice rollback. |
-| **AWS foundations** | IAM · VPC · EC2 · S3 · RDS · Route 53 · CloudWatch | Build a networked application environment with scoped access and useful telemetry. |
-| **Kubernetes operations** | RBAC · NetworkPolicy · HPA · probes · resource limits · storage · Gateway API | Deploy, scale, and troubleshoot workloads; practice cluster backup and recovery. |
-| **Networking & Linux** | TCP/IP · DNS · HTTP/TLS · NGINX · systemd | Trace connectivity problems from process to endpoint. |
-| **DevSecOps** | Trivy · SonarQube · Gitleaks · SBOMs | Add image, code, and secret checks to a delivery pipeline. |
-| **Secrets & identity** | HashiCorp Vault · External Secrets Operator · cert-manager · OIDC | Explore secret delivery, certificate automation, and short-lived CI credentials. |
-| **Observability & SRE** | Grafana Loki · Tempo · Alertmanager · SLIs/SLOs · error budgets | Correlate logs, metrics, and traces; write actionable alerts and incident runbooks. |
-| **Infrastructure quality** | Terraform modules · remote state · state locking · environment isolation | Make infrastructure changes reviewable, repeatable, and easier to recover. |
+**Git · GitHub Actions · GitLab CI/CD · Jenkins · Bash · Python**<br>
+Versioned configuration and pipelines with YAML.
+
+### Backend & event-driven systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="46" height="46" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" width="46" height="46" alt="Spring" title="Spring" />
+  <img src="https://skillicons.dev/icons?i=hibernate&amp;theme=dark" width="46" height="46" alt="Hibernate" title="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=kafka&amp;theme=dark" width="46" height="46" alt="Apache Kafka" title="Apache Kafka" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq&amp;theme=dark" width="46" height="46" alt="RabbitMQ" title="RabbitMQ" />
+</p>
+
+**Java · Spring Boot / Cloud · Hibernate / JPA · Kafka · RabbitMQ**<br>
+Domain-driven design, microservices, and asynchronous communication.
+
+### Data & observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="46" height="46" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" width="46" height="46" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch&amp;theme=dark" width="46" height="46" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=prometheus&amp;theme=dark" width="46" height="46" alt="Prometheus" title="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana&amp;theme=dark" width="46" height="46" alt="Grafana" title="Grafana" />
+</p>
+
+**PostgreSQL · MySQL · Redis · Elasticsearch · Prometheus · Grafana**<br>
+SQL · OpenTelemetry · Logstash · Kibana · Zipkin.
 
 <details>
-<summary><strong>Learning blueprint · from commit to observable service</strong></summary>
+<summary><strong>More in my toolkit — APIs, identity & web</strong></summary>
 
-This is a target lab architecture for practicing the roadmap above.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="46" height="46" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="46" height="46" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" width="46" height="46" alt="Postman" title="Postman" />
+</p>
 
-```mermaid
-flowchart TD
-    A[Source commit] --> B[CI: test and security checks]
-    B --> C[Build and scan container image]
-    C --> D[Publish image to Amazon ECR]
-    D --> E[Review image digest update in GitOps repo]
-    E --> F[Argo CD reconciles Helm manifests]
-    F --> G[Application on Amazon EKS]
-    T[Terraform: AWS infrastructure] --> G
-    G --> H[OpenTelemetry instrumentation]
-    H --> I[Metrics, logs and traces]
-    I --> J[Grafana dashboards and alerts]
-    J --> K[Investigate and improve]
-
-    classDef core fill:#0f172a,stroke:#38bdf8,color:#f1f5f9;
-    classDef support fill:#132c35,stroke:#5eead4,color:#f1f5f9;
-    class A,B,C,D,E,F,G core;
-    class T,H,I,J,K support;
-```
-
-**Backend architecture interests:** domain-driven design, event-driven communication, SAGA workflows, circuit breakers, bulkheads, caching, and distributed tracing.
+**TypeScript · Next.js · Postman · Swagger / OpenAPI · Keycloak**
 
 </details>
 
 ## Certification Goals
 
-**All certifications below are future goals; none have been earned yet.**
+My next milestones in cloud and DevOps. **All are goals — none earned yet.**
+
+### Core milestones
 
 <p>
-  <img src="https://img.shields.io/badge/CKA-GOAL-0F172A?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1D4ED8" alt="CKA — goal, not yet earned" />
-  <img src="https://img.shields.io/badge/AWS_SAA-GOAL-0F172A?style=for-the-badge&labelColor=92400E" alt="AWS Solutions Architect Associate — goal, not yet earned" />
-  <img src="https://img.shields.io/badge/Terraform-GOAL-0F172A?style=for-the-badge&logo=terraform&logoColor=white&labelColor=6D28D9" alt="Terraform Associate — goal, not yet earned" />
+  <a href="https://www.cncf.io/training/certification/cka/"><img src="https://img.shields.io/badge/CKA-GOAL-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Administrator — goal, not earned" /></a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/AWS_SAA-GOAL-B65B00?style=for-the-badge" alt="AWS Certified Solutions Architect – Associate — goal, not earned" /></a>
+  <a href="https://docs.hashicorp.com/certifications/terraform-associate"><img src="https://img.shields.io/badge/Terraform_Associate-GOAL-7047EB?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="HashiCorp Certified: Terraform Associate — goal, not earned" /></a>
 </p>
 
-### Foundation & core goals
+Kubernetes administration &nbsp; · &nbsp; AWS architecture &nbsp; · &nbsp; Infrastructure as Code
 
-| Certification | Learning focus | Status |
-| :--- | :--- | :--- |
-| [**AWS Certified Solutions Architect – Associate**](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Resilient, secure, and cost-aware AWS architectures | Planned |
-| [**Certified Kubernetes Administrator (CKA)**](https://www.cncf.io/training/certification/cka/) | Cluster administration, networking, storage, and troubleshooting | Planned |
-| [**HashiCorp Certified: Terraform Associate**](https://docs.hashicorp.com/certifications/terraform-associate) | IaC fundamentals, configuration, state, and core workflows | Planned |
+### Further down the road
 
-### Further specialization
+<p>
+  <a href="https://www.cncf.io/training/certification/ckad/"><img src="https://img.shields.io/badge/CKAD-FUTURE_GOAL-245B91?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Application Developer — future goal" /></a>
+  <a href="https://www.cncf.io/training/certification/cks/"><img src="https://img.shields.io/badge/CKS-AFTER_CKA-245B91?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Security Specialist — goal after passing CKA" /></a>
+  <a href="https://aws.amazon.com/certification/certified-devops-engineer-professional/"><img src="https://img.shields.io/badge/AWS_DevOps_Pro-LONG_TERM_GOAL-85501C?style=for-the-badge" alt="AWS Certified DevOps Engineer – Professional — long-term goal" /></a>
+</p>
 
-| Certification | Learning focus | Status |
-| :--- | :--- | :--- |
-| [**Certified Kubernetes Application Developer (CKAD)**](https://www.cncf.io/training/certification/ckad/) | Application configuration and workloads on Kubernetes | Future goal |
-| [**Certified Kubernetes Security Specialist (CKS)**](https://www.cncf.io/training/certification/cks/) | Cluster hardening, supply chain, and runtime security | After passing CKA |
-| [**AWS Certified DevOps Engineer – Professional**](https://aws.amazon.com/certification/certified-devops-engineer-professional/) | Delivery automation, monitoring, resilience, and operations on AWS | Long-term goal |
+Application delivery &nbsp; · &nbsp; Kubernetes security &nbsp; · &nbsp; Cloud operations
 
-<sub>Certification names link to official programs. CKS requires passing CKA before attempting the exam.</sub>
+<details>
+<summary><strong>What I want to learn through these certifications</strong></summary>
+
+- **Certified Kubernetes Administrator (CKA):** cluster administration, networking, storage, and troubleshooting.
+- **AWS Certified Solutions Architect – Associate:** resilient, secure, and cost-aware AWS architectures.
+- **HashiCorp Certified: Terraform Associate:** configuration, state, and repeatable infrastructure workflows.
+- **Certified Kubernetes Application Developer (CKAD):** application configuration, deployment, and workloads.
+- **Certified Kubernetes Security Specialist (CKS):** cluster hardening, supply-chain protection, and runtime security. Goal after passing CKA, as required by the program.
+- **AWS Certified DevOps Engineer – Professional:** delivery automation, monitoring, resilience, and operations at a deeper level.
+
+The badges above link to the official certification programs.
+
+</details>
+
+## Learning Next
+
+Tools and practices I want to develop through labs and projects.
+
+<p>
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&amp;logo=argo&amp;logoColor=white" alt="Learning goal: Argo CD" />
+  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Learning goal: Kustomize" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&amp;logo=trivy&amp;logoColor=white" alt="Learning goal: Trivy" />
+  <img src="https://img.shields.io/badge/Vault-253745?style=flat-square&amp;logo=vault&amp;logoColor=white" alt="Learning goal: HashiCorp Vault" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Learning goal: Grafana Loki" />
+  <img src="https://img.shields.io/badge/Tempo-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Learning goal: Grafana Tempo" />
+</p>
+
+**GitOps & platform delivery**<br>
+Argo CD, Kustomize, and ECR — practice deployment reconciliation, drift detection, and rollback.
+
+**DevSecOps & identity**<br>
+Trivy, SonarQube, Gitleaks, Vault, and OIDC — build security checks and secret management into delivery.
+
+**Observability & reliability**<br>
+Loki, Tempo, Alertmanager, and SLIs/SLOs — connect telemetry to useful alerts and incident runbooks.
+
+<details>
+<summary><strong>Explore the rest of my DevOps learning plan</strong></summary>
+
+- **AWS foundations:** IAM, VPC, EC2, S3, RDS, Route 53, and CloudWatch.
+- **Kubernetes operations:** RBAC, NetworkPolicy, HPA, health probes, resource limits, storage, Gateway API, and backup/recovery.
+- **Linux & networking:** TCP/IP, DNS, HTTP/TLS, NGINX, systemd, and connectivity troubleshooting.
+- **Infrastructure quality:** Terraform modules, remote state, state locking, and environment isolation.
+- **Security:** SBOMs, External Secrets Operator, cert-manager, and short-lived credentials.
+- **Reliability:** error budgets, distributed tracing, and recovery exercises.
+- **Distributed systems:** SAGA workflows, circuit breakers, bulkheads, and caching strategies.
+
+</details>
+
+<details>
+<summary><strong>Lab blueprint — from commit to observable service</strong></summary>
+
+A target architecture for practicing these skills.
+
+~~~mermaid
+flowchart TD
+    A[Source commit] --> B[Test and security checks]
+    B --> C[Build and scan image]
+    C --> D[Publish to Amazon ECR]
+    D --> E[Review image digest in GitOps repo]
+    E --> F[Argo CD + Helm]
+    F --> G[Application on Amazon EKS]
+    T[Terraform infrastructure] --> G
+    G --> H[OpenTelemetry]
+    H --> I[Metrics, logs and traces]
+    I --> J[Grafana dashboards and alerts]
+    J --> K[Investigate and improve]
+
+    classDef core fill:#0f172a,stroke:#38bdf8,color:#f1f5f9;
+    classDef telemetry fill:#132c35,stroke:#5eead4,color:#f1f5f9;
+    class A,B,C,D,E,F,G,T core;
+    class H,I,J,K telemetry;
+~~~
+
+</details>
 
 ---
 
 <div align="center">
 
-**Let's talk backend systems, cloud infrastructure, and developer workflows.**
+**Let's connect over backend systems, cloud, and better developer workflows.**
 
 [Email](mailto:tiendat.xpbp@gmail.com) &nbsp; · &nbsp; [Facebook](https://www.facebook.com/tien.at.563335) &nbsp; · &nbsp; [Instagram](https://www.instagram.com/johnleynguci/)
 
