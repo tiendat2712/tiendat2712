@@ -2,7 +2,7 @@
 
 ## Direction
 
-Reference: https://github.com/hoangtien2k3/hoangtien2k3. Adopt its animated title, compact introduction, recognizable tool logos, contribution visuals, statistics, and recent activity. Preserve Phan Trinh Tien Dat's own stack and identity. Do not copy another user's data, projects, social links, or personal artwork.
+Use an animated title, compact introduction, recognizable tool logos, contribution visuals, statistics. Preserve Phan Trinh Tien Dat's own stack and identity. Do not copy another user's data, projects, social links, or personal artwork.
 
 ## Visual system
 
@@ -20,13 +20,12 @@ Reference: https://github.com/hoangtien2k3/hoangtien2k3. Adopt its animated titl
 2. Concise Backend / DevOps introduction and actual contribution calendar.
 3. Four named technology groups; secondary tools in a native disclosure.
 4. Statistics and language cards, followed by an expandable 3D contribution skyline.
-5. Automatically updated authored commit links.
 6. Existing 36-frame cloud GIF and expandable target architecture.
 7. Six explicitly unearned certification goals.
 
 ## Data and animation
 
-`scripts/update_profile.py` fetches the public GitHub contribution calendar, owned public non-fork repositories, language byte totals, and authored commits sampled from repository default branches. It renders the new assets and updates only the ACTIVITY section of README.md. The workflow refreshes daily and supports manual dispatch. An initial push changing the script or workflow also triggers it.
+`scripts/update_profile.py` fetches the public GitHub contribution calendar, owned public non-fork repositories, language byte totals. It renders statistics assets without reading or writing README.md. The workflow refreshes daily and supports manual dispatch. An initial push changing the script or workflow also triggers it.
 
 All fetches complete before output generation. A fetch failure fails the workflow and preserves the prior snapshot and timestamps. Token values are never saved. No new Python dependencies are required.
 

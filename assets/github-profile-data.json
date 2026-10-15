@@ -1503,49 +1503,5 @@
     "Forth": 506,
     "RenderScript": 390,
     "Go Template": 356
-  },
-  "commits": [
-    {
-      "repo": "tiendat2712",
-      "sha": "1b7029de44a1ed271d516ec10e6b89ff64e91ebf",
-      "url": "https://github.com/tiendat2712/tiendat2712/commit/1b7029de44a1ed271d516ec10e6b89ff64e91ebf",
-      "date": "2026-10-15T09:25:39Z",
-      "message": "Refresh profile with animated contributions and Backend DevOps stack"
-    },
-    {
-      "repo": "java-core-mastery",
-      "sha": "69bebffd8609e4931fa79d72058831d331ba9026",
-      "url": "https://github.com/tiendat2712/java-core-mastery/commit/69bebffd8609e4931fa79d72058831d331ba9026",
-      "date": "2026-10-15T08:59:33Z",
-      "message": "Map knowledge"
-    },
-    {
-      "repo": "java-core-mastery",
-      "sha": "08bcfd4f516594fb56b7f4a397672bb504944c08",
-      "url": "https://github.com/tiendat2712/java-core-mastery/commit/08bcfd4f516594fb56b7f4a397672bb504944c08",
-      "date": "2026-10-15T02:43:59Z",
-      "message": "feat: generic - custom List"
-    },
-    {
-      "repo": "tiendat2712",
-      "sha": "cb0c15b05eafa0694af97ce8b7b4a5813bbe106e",
-      "url": "https://github.com/tiendat2712/tiendat2712/commit/cb0c15b05eafa0694af97ce8b7b4a5813bbe106e",
-      "date": "2026-10-15T02:10:45Z",
-      "message": "feat(profile): redesign README in English with 3D isometric visuals and app icons"
-    },
-    {
-      "repo": "tiendat2712",
-      "sha": "983b132021772568a8c5f17ba4a2e591203d5e47",
-      "url": "https://github.com/tiendat2712/tiendat2712/commit/983b132021772568a8c5f17ba4a2e591203d5e47",
-      "date": "2026-10-14T13:29:41Z",
-      "message": "style(profile): redesign layout with featured projects, about me and telemetry"
-    },
-    {
-      "repo": "tiendat2712",
-      "sha": "e1b8bcd615c5ef207700ac273288b290951ab97b",
-      "url": "https://github.com/tiendat2712/tiendat2712/commit/e1b8bcd615c5ef207700ac273288b290951ab97b",
-      "date": "2026-10-14T13:08:19Z",
-      "message": "feat(profile): redesign profile with 3D kubernetes animation, verified commits and languages"
-    }
-  ]
+  }
 }

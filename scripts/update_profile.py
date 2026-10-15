@@ -45,16 +45,13 @@ def fetch():
         batch = api(f'https://api.github.com/users/{USER}/repos?per_page=100&type=owner&page={page}')
         repos.extend(r for r in batch if not r['fork'])
         if len(batch) < 100: break
-    langs, commits = {}, []
+    langs = {}
     for r in repos:
         for lang, count in api(r['languages_url']).items(): langs[lang] = langs.get(lang,0) + count
-        if r['size'] == 0: continue
-        for c in api(f"https://api.github.com/repos/{r['full_name']}/commits?author={USER}&per_page=5"):
-            commits.append({'repo':r['name'],'sha':c['sha'],'url':c['html_url'], 'date':c['commit']['committer']['date'], 'message':c['commit']['message'].splitlines()[0]})
-    commits.sort(key=lambda c:c['date'], reverse=True)
-    return {'updated':datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'),'days':sorted(cal.days.items()),'contributions':int(match[1].replace(',','')),'repos':len(repos),'stars':sum(r['stargazers_count'] for r in repos),'languages':langs,'commits':commits[:6]}
+    return {'updated':datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'),'days':sorted(cal.days.items()),'contributions':int(match[1].replace(',','')),'repos':len(repos),'stars':sum(r['stargazers_count'] for r in repos),'languages':langs}
 
 def render(d):
+    d = {key: value for key, value in d.items() if key != "commits"}
     ASSETS.mkdir(exist_ok=True)
     days=d['days']; active=sum(level>0 for _,level in days)
     body=txt(24,32,'GitHub at a glance',21,'#f8fafc',650)
@@ -97,18 +94,9 @@ def render(d):
         body+=f'<g><title>{ds}: level {level}/4</title><path d="M{x},{y-h}l11,1.5 -9,7 -11,-1.5Z" fill="{COLORS[level]}"/><path d="M{x-9},{y-h+7}l11,1.5v{h}l-11,-1.5Z" fill="{COLORS[level]}" opacity=".75"/><path d="M{x+2},{y-h+8.5}l9,-7v{h}l-9,7Z" fill="{COLORS[level]}" opacity=".45"/></g>'
     body+=txt(24,265,'Height = GitHub activity level (0–4), not exact commit count.',12,'#94a3b8')+txt(24,288,d['updated'],11,'#94a3b8')
     (ASSETS/'contributions-3d.svg').write_text(svg(900,312,'Isometric contribution calendar for '+USER,body),encoding='utf-8')
-    readme=ROOT/'README.md'; content=readme.read_text(encoding='utf-8')
-    rows=[]
-    for c in d['commits']:
-        message=html.escape(c['message'][:100]).replace('[','&#91;').replace(']','&#93;').replace('`','&#96;').replace('*','&#42;').replace('_','&#95;')
-        rows.append(f"- **{c['date'][:10]}** · [{c['repo']}](https://github.com/{USER}/{c['repo']}) · [{c['sha'][:7]}]({c['url']}) — {message}")
-    section='\n'+('\n'.join(rows) or 'No matching public commits found.')+'\n\n<sub>Updated '+d['updated']+'. Latest authored commits sampled from the default branches of owned public non-fork repositories.</sub>\n'
-    if '<!-- ACTIVITY:START -->' not in content: raise ValueError('README activity markers missing')
-    content=re.sub(r'(?<=<!-- ACTIVITY:START -->).*?(?=<!-- ACTIVITY:END -->)',lambda _:section,content,flags=re.S)
-    readme.write_text(content,encoding='utf-8')
     (ASSETS/'github-profile-data.json').write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf-8')
 
 if __name__=='__main__':
     # Fetch everything before writing; failed fetches leave the prior snapshot untouched.
     data=fetch(); render(data)
-    print(f"Updated {data['repos']} repositories, {len(data['days'])} calendar days, {len(data['commits'])} commits.")
+    print(f"Updated {data['repos']} repositories, {len(data['days'])} calendar days.")
