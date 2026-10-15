@@ -41,7 +41,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Only stage generated assets and cache
-          git add assets/hero-3d.gif assets/languages-breakdown.svg assets/github-activity.svg scripts/data/cache.json
+          git add assets/hero-3d.gif assets/architecture-3d.svg assets/languages-breakdown.svg assets/github-activity.svg scripts/data/cache.json
           
           if git diff --staged --quiet; then
             echo "No changes in generated assets. Skipping commit."

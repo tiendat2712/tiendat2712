@@ -1,8 +1,8 @@
 <!-- ================================================================= -->
-<!-- HERO BANNER: 3D ANIMATED TOPOLOGY & PLATFORM IDENTITY              -->
+<!-- 3D HERO BANNER: KINETIC TOPOLOGY & APPLICATION ECOSYSTEM          -->
 <!-- ================================================================= -->
 <div align="center">
-  <img src="./assets/hero-3d.gif" width="100%" alt="Phan Trinh Tien Dat — Backend · Cloud & DevOps Engineer (3D Topology Banner)" />
+  <img src="./assets/hero-3d.gif" width="100%" alt="Phan Trinh Tien Dat — 3D Cloud & App Ecosystem Banner" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 # 👨‍💻 Phan Trinh Tien Dat
 
 ### Backend · Cloud & DevOps Engineer
-**Da Nang, Vietnam** · *Bridging resilient backend microservices and automated cloud platforms.*
+**Da Nang, Vietnam** · *Crafting resilient backend apps, 3D-visualized cloud platforms, and automated delivery pipelines.*
 
 <p align="center">
   <a href="mailto:tiendat.xpbp@gmail.com" target="_blank">
@@ -28,85 +28,216 @@
   <a href="https://maps.google.com/?q=Da+Nang,+Vietnam" target="_blank">
     <img src="https://img.shields.io/badge/LOCATION-DA_NANG,_VIETNAM-0EA5E9?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
   </a>
-  <a href="#-lets-collaborate">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATION-10B981?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white" alt="Status" />
+  <a href="#-lets-connect">
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-10B981?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white" alt="Status" />
   </a>
 </p>
 
 <p align="center">
-  <a href="#-about-me"><b>About Me</b></a> &nbsp;·&nbsp;
-  <a href="#-featured-projects"><b>Featured Projects</b></a> &nbsp;·&nbsp;
-  <a href="#-technical-stack"><b>Tech Stack</b></a> &nbsp;·&nbsp;
-  <a href="#-hands-on-architecture-blueprint"><b>Architecture Lab</b></a> &nbsp;·&nbsp;
-  <a href="#-certification-goals"><b>Certifications</b></a> &nbsp;·&nbsp;
-  <a href="#-verified-activity--telemetry"><b>Live Telemetry</b></a> &nbsp;·&nbsp;
-  <a href="#-lets-collaborate"><b>Contact</b></a>
+  <a href="#-visual-overview"><b>Overview</b></a> &nbsp;·&nbsp;
+  <a href="#-app--tool-ecosystem"><b>App Dock</b></a> &nbsp;·&nbsp;
+  <a href="#-3d-isometric-cloud-pipeline"><b>3D Architecture</b></a> &nbsp;·&nbsp;
+  <a href="#-featured-applications"><b>Featured Apps</b></a> &nbsp;·&nbsp;
+  <a href="#-certification-roadmap"><b>Certifications</b></a> &nbsp;·&nbsp;
+  <a href="#-3d-telemetry--activity"><b>3D Telemetry</b></a> &nbsp;·&nbsp;
+  <a href="#-lets-connect"><b>Connect</b></a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Visual Overview
 
-I enjoy building complete software systems—from high-concurrency backend services with Java & Spring Boot to reproducible cloud-native infrastructure with Terraform, Kubernetes, and automated CI/CD pipelines.
-
-- 🎓 **Specialization & Focus:** Backend Architecture, Cloud Platforms & DevOps Automation
-- 🚀 **Core Competencies:** Java/Spring Boot Microservices, Kubernetes Cluster Operations, Terraform IaC, Automated CI/CD (GitHub Actions / GitLab CI)
-- 🎯 **Current Focus:** GitOps reconciliation with Argo CD, Distributed Tracing with OpenTelemetry, and Platform Security (DevSecOps)
-- 📬 **Direct Contact:** [tiendat.xpbp@gmail.com](mailto:tiendat.xpbp@gmail.com)
-- 📍 **Based in:** Da Nang, Vietnam
+<table>
+  <tr>
+    <td width="33.3%" valign="top" align="center">
+      <h3>⚙️ Backend Services</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis&amp;theme=dark" height="42" alt="Backend Apps" />
+      </p>
+      <p>High-concurrency microservices, event-driven messaging, and reliable relational &amp; in-memory data stores.</p>
+    </td>
+    <td width="33.3%" valign="top" align="center">
+      <h3>☁️ Cloud &amp; Containers</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux&amp;theme=dark" height="42" alt="Cloud Apps" />
+      </p>
+      <p>Containerized workloads, Kubernetes cluster orchestration, and reproducible Infrastructure as Code on AWS.</p>
+    </td>
+    <td width="33.3%" valign="top" align="center">
+      <h3>🚀 GitOps &amp; Telemetry</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,prometheus,grafana&amp;theme=dark" height="42" alt="DevOps Apps" />
+      </p>
+      <p>Automated CI/CD delivery pipelines, GitOps state reconciliation, and full-stack metrics observability.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🎨 App & Tool Ecosystem
+
+<div align="center">
+  <p><i>Application-first visual dock organized by operational domain — prioritizing interactive tools &amp; platforms over walls of text.</i></p>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4>☕ Backend &amp; Data Applications</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,rabbitmq,postgres,mysql,redis&amp;perline=4&amp;theme=dark" alt="Backend & Data Apps" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/ACTIVE_APPS-Java_21_·_Spring_Boot_·_Kafka_·_Postgres-0F172A?style=flat-square&amp;logoColor=38BDF8" alt="Backend Active" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>☁️ Cloud, Runtime &amp; OS</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,nginx,cloudflare,bash,powershell&amp;perline=4&amp;theme=dark" alt="Cloud & Runtime Apps" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/ACTIVE_APPS-AWS_·_Kubernetes_·_Docker_·_Linux-0F172A?style=flat-square&amp;logoColor=2DD4BF" alt="Cloud Active" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4>⚡ CI/CD, GitOps &amp; Automation</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,py,terraform,ansible&amp;perline=4&amp;theme=dark" alt="CI/CD & IaC Apps" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/ACTIVE_APPS-Actions_·_GitLab_·_Jenkins_·_Terraform-0F172A?style=flat-square&amp;logoColor=A855F7" alt="CI/CD Active" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>📊 Observability, Web &amp; API Tools</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,ts,nextjs,postman,vscode,idea&amp;perline=4&amp;theme=dark" alt="Observability & Dev Apps" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/ACTIVE_APPS-Prometheus_·_Grafana_·_ELK_·_Postman-0F172A?style=flat-square&amp;logoColor=10B981" alt="Observability Active" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p>
+    <b>🔭 Next-Gen Platform &amp; Security Apps in Lab:</b><br/>
+    <img src="https://img.shields.io/badge/Argo_CD-GitOps_Sync-1E293B?style=for-the-badge&amp;logo=argo&amp;logoColor=EF7B4D" alt="Argo CD" />
+    <img src="https://img.shields.io/badge/Helm-K8s_Charts-1E293B?style=for-the-badge&amp;logo=helm&amp;logoColor=0F1689" alt="Helm" />
+    <img src="https://img.shields.io/badge/Trivy-Image_Scanner-1E293B?style=for-the-badge&amp;logo=trivy&amp;logoColor=0092E4" alt="Trivy" />
+    <img src="https://img.shields.io/badge/Vault-Secrets_Engine-1E293B?style=for-the-badge&amp;logo=vault&amp;logoColor=FFEC6E" alt="Vault" />
+    <img src="https://img.shields.io/badge/SonarQube-Code_Gate-1E293B?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=4E9BCD" alt="SonarQube" />
+    <img src="https://img.shields.io/badge/OpenTelemetry-Tracing-1E293B?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=F5A800" alt="OpenTelemetry" />
+  </p>
+</div>
+
+---
+
+## 🧊 3D Isometric Cloud Pipeline
+
+<div align="center">
+  <img src="./assets/architecture-3d.svg" width="100%" alt="3D Isometric Cloud & App Delivery Topology" />
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,githubactions,docker,terraform,aws,kubernetes,prometheus,grafana&amp;theme=dark" height="38" alt="Pipeline App Chain" />
+  </p>
+</div>
+
+<details>
+  <summary><b>🔍 View Interactive Mermaid Node Graph</b></summary>
+  <br/>
+
+```mermaid
+flowchart LR
+    subgraph SCM["01. Source & Apps"]
+        Commit["Git Commit\n(Java / Python / IaC)"]
+    end
+
+    subgraph CI["02. CI & Security"]
+        Lint["Unit Tests"]
+        Sec["Trivy & Gitleaks"]
+        Build["Docker Multi-stage"]
+    end
+
+    subgraph CD["03. GitOps Sync"]
+        GitOpsRepo["K8s Manifests"]
+        Argo["Argo CD Sync"]
+    end
+
+    subgraph Runtime["04. Cloud Runtime"]
+        TF["Terraform IaC"]
+        EKS["AWS EKS Cluster"]
+    end
+
+    subgraph Obs["05. Observability"]
+        OTel["OpenTelemetry"]
+        Prom["Prometheus"]
+        Graf["Grafana Alerts"]
+    end
+
+    Commit --> Lint --> Sec --> Build --> GitOpsRepo --> Argo
+    TF ==> EKS
+    Argo ==> EKS
+    EKS --> OTel --> Prom --> Graf
+
+    classDef darkBox fill:#0b1120,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc;
+    classDef runtimeBox fill:#0f172a,stroke:#2dd4bf,stroke-width:1.5px,color:#f8fafc;
+    classDef obsBox fill:#082f49,stroke:#34d399,stroke-width:1.5px,color:#f8fafc;
+
+    class Commit,Lint,Sec,Build,GitOpsRepo,Argo darkBox;
+    class TF,EKS runtimeBox;
+    class OTel,Prom,Graf obsBox;
+```
+
+</details>
+
+---
+
+## 🚀 Featured Applications
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/tiendat2712/morph3d-ai">morph3d-ai</a></h3>
-      <p><b>High-Throughput 3D Scan Pipeline & Validation Engine</b></p>
-      <p>An automated 3D reconstruction and scan processing pipeline featuring browser E2E workflows, concurrent load benchmarks, and conformal validation algorithms for robust computer vision pipelines.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/E2E_Testing-00C7B7?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="E2E Testing" />
+      <h3>🧊 <a href="https://github.com/tiendat2712/morph3d-ai">morph3d-ai</a></h3>
+      <p><b>3D Scan Reconstruction &amp; Validation Engine</b></p>
+      <p>Automated 3D point-cloud and mesh processing pipeline with browser E2E verification, concurrent load benchmarks, and conformal geometry validation.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=py,docker,githubactions,linux&amp;theme=dark" height="36" alt="morph3d-ai App Icons" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/tiendat2712/identity-service">identity-service</a></h3>
-      <p><b>Secure Cloud-Native Auth & Microservices Gateway</b></p>
-      <p>Enterprise identity and access control microservice implemented in Java 21 & Spring Boot 3 with Bcrypt password encryption, stateless JWT/OAuth2 token management, and PostgreSQL persistence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java 21" />
-        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+      <p><b>Cloud-Native Auth &amp; Identity Gateway</b></p>
+      <p>Enterprise authentication microservice built with Java 21 &amp; Spring Boot 3 featuring Bcrypt encryption, stateless JWT/OAuth2 flows, and PostgreSQL.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&amp;theme=dark" height="36" alt="identity-service App Icons" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>☕ <a href="https://github.com/tiendat2712/java-core-mastery">java-core-mastery</a></h3>
-      <p><b>Enterprise Backend Patterns & Concurrency Lab</b></p>
-      <p>Deep-dive implementation lab exploring Java memory models, Collections framework internal mechanics (HashMaps, Lists, Sets), custom iterator implementations, multithreading synchronization, and robust OOP architectural patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java 21" />
-        <img src="https://img.shields.io/badge/Concurrency-FF6F00?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="Concurrency" />
-        <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&amp;logo=junit5&amp;logoColor=white" alt="JUnit 5" />
-        <img src="https://img.shields.io/badge/OOP_Patterns-009688?style=flat-square&amp;logo=blueprint&amp;logoColor=white" alt="OOP Patterns" />
+      <p><b>Backend Concurrency &amp; Architecture Lab</b></p>
+      <p>Hands-on engineering lab exploring Java memory models, custom collection iterators, multithreaded synchronization, and clean OOP design patterns.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=java,idea,maven,git&amp;theme=dark" height="36" alt="java-core-mastery App Icons" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☸️ <a href="https://github.com/tiendat2712/tiendat2712">devops-profile-engine</a></h3>
-      <p><b>Automated Cloud Telemetry & 3D Topology Platform</b></p>
-      <p>Self-healing profile automation platform generating genuine 3D perspective topology animations, real-time GitHub commit audits, and non-fork codebase byte analytics via GitHub Actions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/SVG_Rendering-FFB13B?style=flat-square&amp;logo=svg&amp;logoColor=white" alt="SVG" />
-        <img src="https://img.shields.io/badge/3D_Kinematics-00D2D3?style=flat-square&amp;logo=blender&amp;logoColor=white" alt="3D" />
+      <h3>🌐 <a href="https://github.com/tiendat2712/tiendat2712">devops-profile-engine</a></h3>
+      <p><b>3D Topology Renderer &amp; Live Telemetry Engine</b></p>
+      <p>Self-updating visual engine rendering 3D perspective cluster animations, isometric SVG pipelines, and verified GitHub telemetry via GitHub Actions.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=py,githubactions,github,vscode&amp;theme=dark" height="36" alt="devops-profile-engine App Icons" />
       </p>
     </td>
   </tr>
@@ -114,195 +245,62 @@ I enjoy building complete software systems—from high-concurrency backend servi
 
 ---
 
-## 🛠️ Technical Stack
+## 🎯 Certification Roadmap
 
-Công nghệ được phân loại rõ ràng theo từng mảng chuyên môn, phân biệt giữa công nghệ đang thực hành trong hồ sơ/dự án và công nghệ thuộc lộ trình học tập.
+> 💡 **Transparency Note:** I do not hold these certifications yet. Every badge below represents a **structured learning target (`[GOAL]` / `[PLANNED]`)** linked directly to the official exam syllabus.
 
-### 1. Backend & Distributed Systems
-*Nền tảng dịch vụ, giao tiếp bất đồng bộ và cơ sở dữ liệu backend.*
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="44" height="44" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" width="44" height="44" alt="Spring Boot" title="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=hibernate&amp;theme=dark" width="44" height="44" alt="Hibernate" title="Hibernate" />
-  <img src="https://skillicons.dev/icons?i=kafka&amp;theme=dark" width="44" height="44" alt="Apache Kafka" title="Apache Kafka" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq&amp;theme=dark" width="44" height="44" alt="RabbitMQ" title="RabbitMQ" />
-  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="44" height="44" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" width="44" height="44" alt="Redis" title="Redis" />
-</p>
-
-- **Trong hồ sơ / Thực hành:** Java 21, Spring Boot, Spring Cloud, Spring Data JPA / Hibernate, Apache Kafka, RabbitMQ, PostgreSQL, MySQL, Redis, RESTful API design.
-- **Hệ sinh thái web & API bổ trợ:** TypeScript, Next.js, Postman, OpenAPI / Swagger, Keycloak.
-
-### 2. Cloud & Containers
-*Hạ tầng đám mây và môi trường vận hành ứng dụng đóng gói.*
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="44" height="44" alt="AWS" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="44" height="44" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" width="44" height="44" alt="Kubernetes" title="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="44" height="44" alt="Linux" title="Linux" />
-</p>
-
-- **Trong hồ sơ / Thực hành:** Docker (multi-stage builds, image optimization), Kubernetes (Pods, Deployments, Services, ConfigMaps, Secrets), Amazon Web Services (EC2, VPC, S3, RDS, EKS fundamentals), Linux system administration (Ubuntu/Debian, systemd, networking).
-- **Công cụ đóng gói bổ trợ:** Helm charts cơ bản cho Kubernetes.
-
-### 3. CI/CD & GitOps
-*Tự động hóa quy trình kiểm thử, đóng gói và triển khai mã nguồn.*
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="44" height="44" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="44" height="44" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" width="44" height="44" alt="GitLab CI" title="GitLab CI" />
-  <img src="https://skillicons.dev/icons?i=jenkins&amp;theme=dark" width="44" height="44" alt="Jenkins" title="Jenkins" />
-  <img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" width="44" height="44" alt="Bash" title="Bash" />
-  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="44" height="44" alt="Python" title="Python" />
-</p>
-
-- **Trong hồ sơ / Thực hành:** Git flow, GitHub Actions (automated pipelines, releases, asset generation), GitLab CI/CD, Jenkins pipelines, Bash scripting, Python automation.
-- **Lộ trình học tập (Roadmap Goal):** Argo CD (GitOps deployment reconciliation, automated sync & rollback), Kustomize (environment overlay management).
-
-### 4. Infrastructure as Code (IaC)
-*Định nghĩa và quản lý tài nguyên hạ tầng bằng mã nguồn có thể tái tạo.*
-
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" width="44" height="44" alt="Terraform" title="Terraform" />
-  <img src="https://skillicons.dev/icons?i=ansible&amp;theme=dark" width="44" height="44" alt="Ansible" title="Ansible" />
-</p>
-
-- **Trong hồ sơ / Thực hành:** Terraform (HCL syntax, module structures, state management, variables/outputs), Ansible (playbooks cho cấu hình máy chủ Linux).
-- **Lộ trình học tập (Roadmap Goal):** Terraform remote state locking với S3 + DynamoDB, multi-environment isolation (Dev/Staging/Prod).
-
-### 5. Observability & SRE
-*Giám sát hiệu năng hệ thống, thu thập log và cảnh báo độ tin cậy.*
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus&amp;theme=dark" width="44" height="44" alt="Prometheus" title="Prometheus" />
-  <img src="https://skillicons.dev/icons?i=grafana&amp;theme=dark" width="44" height="44" alt="Grafana" title="Grafana" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch&amp;theme=dark" width="44" height="44" alt="Elasticsearch" title="Elasticsearch" />
-</p>
-
-- **Trong hồ sơ / Thực hành:** Prometheus (metrics scraping, alerting rules), Grafana (dashboards, telemetry visualization), Elasticsearch (log storage), Zipkin & OpenTelemetry fundamentals.
-- **Lộ trình học tập (Roadmap Goal):** Grafana Loki (log aggregation), Grafana Tempo (distributed tracing), định nghĩa SLI/SLO và thiết lập incident response runbooks.
-
-### 6. DevSecOps & Platform Security
-*Tích hợp bảo mật vào quy trình phát triển và vận hành hệ thống.*
-
-<p>
-  <img src="https://img.shields.io/badge/Trivy-Vulnerability_Scan-0A0F1D?style=for-the-badge&amp;logo=trivy&amp;logoColor=white" alt="Trivy" />
-  <img src="https://img.shields.io/badge/Vault-Secrets_Management-0A0F1D?style=for-the-badge&amp;logo=vault&amp;logoColor=white" alt="Vault" />
-  <img src="https://img.shields.io/badge/SonarQube-Code_Quality-0A0F1D?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/OIDC-Keycloak-0A0F1D?style=for-the-badge&amp;logo=openid&amp;logoColor=white" alt="Keycloak OIDC" />
-</p>
-
-- **Lộ trình học tập (Roadmap Goal):** Quét lỗ hổng container image với Trivy, phát hiện rò rỉ bí mật với Gitleaks, quản lý thông tin bảo mật tập trung với HashiCorp Vault, kiểm soát danh tính và truy cập qua OIDC / Keycloak, quản lý chứng chỉ tự động với cert-manager.
+<table>
+  <tr>
+    <td width="33.3%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" width="52" height="52" alt="Kubernetes" />
+      <h4>CNCF CKA &amp; CKAD</h4>
+      <p>
+        <a href="https://www.cncf.io/training/certification/cka/">
+          <img src="https://img.shields.io/badge/CKA-TARGET_[GOAL]-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="CKA Goal" />
+        </a>
+      </p>
+      <p><sub>Cluster operations, etcd backup, RBAC, networking &amp; pod lifecycle</sub></p>
+    </td>
+    <td width="33.3%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="52" height="52" alt="AWS" />
+      <h4>AWS Architect &amp; DevOps</h4>
+      <p>
+        <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
+          <img src="https://img.shields.io/badge/AWS_SAA-TARGET_[GOAL]-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=black" alt="AWS SAA Goal" />
+        </a>
+      </p>
+      <p><sub>Resilient Multi-AZ VPC, IAM, EKS, Auto Scaling &amp; cloud cost design</sub></p>
+    </td>
+    <td width="33.3%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" width="52" height="52" alt="Terraform" />
+      <h4>Terraform Associate</h4>
+      <p>
+        <a href="https://docs.hashicorp.com/certifications/terraform-associate">
+          <img src="https://img.shields.io/badge/TERRAFORM_003-TARGET_[GOAL]-7047EB?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform Goal" />
+        </a>
+      </p>
+      <p><sub>Modular IaC workflows, remote state locking &amp; multi-env provisioning</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏛️ Hands-on Architecture Blueprint
+## 📊 3D Telemetry & Activity
 
-Mô hình kiến trúc tham chiếu cho các lab thực hành từ commit mã nguồn tới hệ thống giám sát tự động:
+<div align="center">
+  <img src="./assets/languages-breakdown.svg" width="100%" alt="3D Codebase Volume Distribution" />
+</div>
 
-```mermaid
-flowchart LR
-    subgraph SCM["1. Source Control"]
-        Commit["Git Commit\n(Backend Code & IaC)"]
-    end
+<br/>
 
-    subgraph CI["2. Continuous Integration"]
-        Lint["Unit Test\n& Linter"]
-        Sec["Security Check\n(Gitleaks / Trivy)"]
-        Build["Docker Build\nMulti-stage"]
-        ECR["Push Image\nAmazon ECR"]
-    end
+<div align="center">
+  <img src="./assets/github-activity.svg" width="100%" alt="Verified GitHub Commit Telemetry" />
+</div>
 
-    subgraph CD["3. GitOps Delivery"]
-        GitOpsRepo["GitOps Repo\n(K8s Manifests)"]
-        Argo["Argo CD\nReconciliation"]
-    end
-
-    subgraph Runtime["4. Cloud Infrastructure"]
-        TF["Terraform IaC\n(VPC, Subnets, IAM)"]
-        EKS["Amazon EKS Cluster\nWorker Nodes & Pods"]
-    end
-
-    subgraph Obs["5. Observability"]
-        OTel["OpenTelemetry Collector"]
-        Prom["Prometheus Metrics"]
-        Graf["Grafana Dashboards & Alerts"]
-    end
-
-    Commit --> Lint --> Sec --> Build --> ECR
-    Build -.-> GitOpsRepo
-    GitOpsRepo --> Argo
-    TF ==> EKS
-    Argo ==> EKS
-    EKS --> OTel
-    OTel --> Prom --> Graf
-
-    classDef darkBox fill:#0b1120,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc;
-    classDef runtimeBox fill:#0f172a,stroke:#2dd4bf,stroke-width:1.5px,color:#f8fafc;
-    classDef obsBox fill:#082f49,stroke:#34d399,stroke-width:1.5px,color:#f8fafc;
-
-    class Commit,Lint,Sec,Build,ECR,GitOpsRepo,Argo darkBox;
-    class TF,EKS runtimeBox;
-    class OTel,Prom,Graf obsBox;
-```
-
----
-
-## 🎯 Certification Goals
-
-> ⚠️ **Cam kết minh bạch về chứng chỉ**:
-> **Tôi hiện chưa sở hữu bất kỳ chứng chỉ nào.** Tất cả các chứng chỉ dưới đây là **mục tiêu học tập có lộ trình rõ ràng (Goals / Planned Milestones)**. Các liên kết dẫn trực tiếp tới cổng thông tin khảo thí chính thức của CNCF, AWS và HashiCorp để người xem tiện tra cứu chuẩn kiến thức.
-
-### Mục tiêu trọng tâm (Core Milestone Goals)
-
-<p>
-  <a href="https://www.cncf.io/training/certification/cka/"><img src="https://img.shields.io/badge/CKA-MỤC_TIÊU_HỌC_TẬP_[GOAL]-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Administrator — Mục tiêu học tập, chưa sở hữu" /></a>
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/AWS_SAA-MỤC_TIÊU_HỌC_TẬP_[GOAL]-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=black" alt="AWS Certified Solutions Architect Associate — Mục tiêu học tập, chưa sở hữu" /></a>
-  <a href="https://docs.hashicorp.com/certifications/terraform-associate"><img src="https://img.shields.io/badge/Terraform_Associate-MỤC_TIÊU_HỌC_TẬP_[GOAL]-7047EB?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="HashiCorp Terraform Associate — Mục tiêu học tập, chưa sở hữu" /></a>
-</p>
-
-- **Certified Kubernetes Administrator (CKA):** *Mục tiêu [GOAL]* — Vận hành cụm Kubernetes thực tế: cluster architecture, etcd backup/restore, networking, persistent storage, scheduling và khắc phục sự cố node/pod.
-- **AWS Solutions Architect – Associate (AWS SAA):** *Mục tiêu [GOAL]* — Thiết kế kiến trúc đám mây AWS bền bỉ, an toàn, hiệu năng cao và tối ưu chi phí (VPC, Multi-AZ, IAM, Auto Scaling, S3, RDS).
-- **HashiCorp Certified: Terraform Associate 003:** *Mục tiêu [GOAL]* — Chuẩn hóa quy trình Infrastructure as Code: state lifecycle, module reuse, execution plans, và biến môi trường.
-
-### Mục tiêu nâng cao & dài hạn (Advanced Planned Milestones)
-
-<p>
-  <a href="https://www.cncf.io/training/certification/ckad/"><img src="https://img.shields.io/badge/CKAD-KẾ_HOẠCH_[PLANNED]-245B91?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Application Developer — Kế hoạch, chưa sở hữu" /></a>
-  <a href="https://www.cncf.io/training/certification/cks/"><img src="https://img.shields.io/badge/CKS-KẾ_HOẠCH_SAU_CKA_[PLANNED]-1C446E?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Certified Kubernetes Security Specialist — Kế hoạch sau CKA, chưa sở hữu" /></a>
-  <a href="https://aws.amazon.com/certification/certified-devops-engineer-professional/"><img src="https://img.shields.io/badge/AWS_DevOps_Pro-MỤC_TIÊU_DÀI_HẠN_[LONG_TERM]-8C4F00?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS Certified DevOps Engineer Professional — Mục tiêu dài hạn, chưa sở hữu" /></a>
-</p>
-
-- **Certified Kubernetes Application Developer (CKAD):** *Kế hoạch [PLANNED]* — Đóng gói, kiểm soát vòng đời ứng dụng trên k8s, Canary/Blue-Green deployments, probe và volume configurations.
-- **Certified Kubernetes Security Specialist (CKS):** *Kế hoạch [PLANNED SAU CKA]* — Tăng cường bảo mật cụm: cluster hardening, container runtime security, network policies và giảm thiểu bề mặt tấn công.
-- **AWS Certified DevOps Engineer – Professional:** *Mục tiêu dài hạn [LONG-TERM GOAL]* — Tự động hóa phân phối ứng dụng quy mô lớn, giám sát hệ thống phân tán, chiến lược phục hồi sự cố tự động (DR) trên AWS.
-
----
-
-## 📊 Verified Activity & Telemetry
-
-Bằng chứng kỹ thuật thực tế và chỉ số phân bố mã nguồn được trích xuất trực tiếp từ các kho lưu trữ công khai của **@tiendat2712** qua GitHub Actions.
-
-### Phân bố dung lượng mã nguồn (Codebase Language Distribution)
-
-<p align="center">
-  <img src="./assets/languages-breakdown.svg" width="100%" alt="Codebase Language Breakdown" />
-</p>
-
-> **Phương pháp thống kê & Xử lý fork**:
-> - **Phạm vi**: Tổng hợp trên toàn bộ 8 repository công khai do `@tiendat2712` sở hữu.
-> - **Xử lý fork**: Loại bỏ 100% repository fork nhằm phản ánh trung thực mã nguồn do tác giả tự khởi tạo và phát triển.
-> - **Ý nghĩa số liệu**: Tỷ lệ phần trăm thể hiện **cơ cấu dung lượng byte mã nguồn (codebase volume ratio)** giữa các dự án (Python, JavaScript, CSS, HTML, TypeScript, Java...), **không đại diện cho mức độ thành thạo cá nhân**.
-
-### Hoạt động commit gần đây (Verified Recent Commits)
-
-<p align="center">
-  <img src="./assets/github-activity.svg" width="100%" alt="Verified Recent GitHub Commits" />
-</p>
+<details>
+  <summary><b>🔗 View Direct Commit Links &amp; Verification Methodology</b></summary>
+  <br/>
 
 - **2026-10-14** · [`tiendat2712/morph3d-ai`](https://github.com/tiendat2712/morph3d-ai) · [`91f5d25`](https://github.com/tiendat2712/morph3d-ai/commit/91f5d25) — `feat(scan): upgrade 3D scan pipeline with browser E2E, concurrent load benchmarks, and conformal validation`
 - **2026-10-14** · [`tiendat2712/tiendat2712`](https://github.com/tiendat2712/tiendat2712) · [`7b2213e`](https://github.com/tiendat2712/tiendat2712/commit/7b2213e) — `Redesign profile with tech icons and certification goals`
@@ -311,23 +309,25 @@ Bằng chứng kỹ thuật thực tế và chỉ số phân bố mã nguồn đ
 - **2026-10-06** · [`tiendat2712/identity-service`](https://github.com/tiendat2712/identity-service) · [`cd32b62`](https://github.com/tiendat2712/identity-service/commit/cd32b62) — `Merge branch 'main' of https://github.com/tiendat2712/identity-service`
 - **2026-10-06** · [`tiendat2712/identity-service`](https://github.com/tiendat2712/identity-service) · [`2e22606`](https://github.com/tiendat2712/identity-service/commit/2e22606) — `Initial commit - Encrypt password with Bcrypt`
 
-> **Phạm vi & Thời điểm cập nhật**: Dữ liệu commit được trích xuất trực tiếp từ các commit thực tế trong các kho lưu trữ công khai của tài khoản `tiendat2712`. Script tự động cập nhật qua GitHub Actions định kỳ và lưu bản hợp lệ gần nhất khi API bị giới hạn lưu lượng.
+> **Verification Scope:** Aggregated across all 8 non-fork public repositories owned by `@tiendat2712` via GitHub Actions. Percentages represent repository byte volume ratios rather than subjective proficiency scores.
+
+</details>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
 
-### Ready to build resilient platforms and high-throughput systems
+### Ready to collaborate on 3D-visualized platforms, cloud automation, and backend systems
 
 <p>
-  <a href="mailto:tiendat.xpbp@gmail.com"><img src="https://img.shields.io/badge/Email-tiendat.xpbp%40gmail.com-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Tien Dat" /></a>
+  <a href="mailto:tiendat.xpbp@gmail.com"><img src="https://img.shields.io/badge/Email-tiendat.xpbp%40gmail.com-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email Tien Dat" /></a>
   <a href="https://github.com/tiendat2712"><img src="https://img.shields.io/badge/GitHub-tiendat2712-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub" /></a>
   <a href="https://www.facebook.com/tien.at.563335"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/johnleynguci/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
 </p>
 
-<sub>Phan Trinh Tien Dat · Da Nang, Vietnam · Crafted with genuine 3D perspective animation and verified GitHub telemetry</sub>
+<sub>Phan Trinh Tien Dat · Da Nang, Vietnam · Powered by 3D perspective rendering &amp; verified GitHub telemetry</sub>
 
 </div>

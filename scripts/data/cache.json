@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-10-14T19:56:00Z",
+  "updated_at": "2026-10-15T02:04:03Z",
   "username": "tiendat2712",
-  "name": "Phan Trinh Tien Dat",
+  "name": "Johnleynguci",
   "public_repos_count": 8,
   "languages": {
     "total_bytes": 57998245,
     "breakdown": [
-      {"name": "Python", "bytes": 20014678, "percentage": 34.51, "color": "#3572A5"},
-      {"name": "JavaScript", "bytes": 13242876, "percentage": 22.83, "color": "#F7DF1E"},
-      {"name": "CSS", "bytes": 10470493, "percentage": 18.05, "color": "#563D7C"},
-      {"name": "HTML", "bytes": 5887301, "percentage": 10.15, "color": "#E34C26"},
-      {"name": "TypeScript", "bytes": 3493796, "percentage": 6.02, "color": "#3178C6"},
-      {"name": "Tcl", "bytes": 2251504, "percentage": 3.88, "color": "#E4CC98"},
-      {"name": "Java", "bytes": 828598, "percentage": 1.43, "color": "#B07219"},
-      {"name": "Others", "bytes": 1808999, "percentage": 3.13, "color": "#64748B"}
+      {
+        "name": "Python",
+        "bytes": 20014678,
+        "percentage": 34.51,
+        "color": "#3572A5"
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 13242876,
+        "percentage": 22.83,
+        "color": "#F7DF1E"
+      },
+      {
+        "name": "CSS",
+        "bytes": 10470493,
+        "percentage": 18.05,
+        "color": "#563D7C"
+      },
+      {
+        "name": "HTML",
+        "bytes": 5887301,
+        "percentage": 10.15,
+        "color": "#E34C26"
+      },
+      {
+        "name": "TypeScript",
+        "bytes": 3493796,
+        "percentage": 6.02,
+        "color": "#3178C6"
+      },
+      {
+        "name": "Tcl",
+        "bytes": 2251504,
+        "percentage": 3.88,
+        "color": "#E4CC98"
+      },
+      {
+        "name": "Java",
+        "bytes": 828598,
+        "percentage": 1.43,
+        "color": "#B07219"
+      },
+      {
+        "name": "Others",
+        "bytes": 1808999,
+        "percentage": 3.13,
+        "color": "#64748B"
+      }
     ]
   },
   "recent_commits": [

@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="960" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070c18" />
+      <stop offset="50%" stop-color="#0b1326" />
+      <stop offset="100%" stop-color="#070c18" />
+    </linearGradient>
+    <linearGradient id="pipeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <filter id="blurShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" />
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="boardClip">
+      <rect width="960" height="340" rx="16" />
+    </clipPath>
+    <style>
+      @keyframes floatIso {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-6px); }
+      }
+      .float-stage {
+        animation: floatIso 3.6s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#boardClip)">
+    <rect width="960" height="340" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
+    <g><line x1="-540" y1="55" x2="-120" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-340" y1="55" x2="-760" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-450" y1="55" x2="-30" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-250" y1="55" x2="-670" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-360" y1="55" x2="60" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-160" y1="55" x2="-580" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-270" y1="55" x2="150" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-70" y1="55" x2="-490" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-180" y1="55" x2="240" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="20" y1="55" x2="-400" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="-90" y1="55" x2="330" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="110" y1="55" x2="-310" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="0" y1="55" x2="420" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="200" y1="55" x2="-220" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="90" y1="55" x2="510" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="290" y1="55" x2="-130" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="180" y1="55" x2="600" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="380" y1="55" x2="-40" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="270" y1="55" x2="690" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="470" y1="55" x2="50" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="360" y1="55" x2="780" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="560" y1="55" x2="140" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="450" y1="55" x2="870" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="650" y1="55" x2="230" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="540" y1="55" x2="960" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="740" y1="55" x2="320" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="630" y1="55" x2="1050" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="830" y1="55" x2="410" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="720" y1="55" x2="1140" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="920" y1="55" x2="500" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="810" y1="55" x2="1230" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="1010" y1="55" x2="590" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="900" y1="55" x2="1320" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="1100" y1="55" x2="680" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="990" y1="55" x2="1410" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="1190" y1="55" x2="770" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="1080" y1="55" x2="1500" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="1280" y1="55" x2="860" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="1170" y1="55" x2="1590" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /><line x1="1370" y1="55" x2="950" y2="320" stroke="#1e293b" stroke-width="1" opacity="0.45" /></g>
+
+    <!-- Top Header Bar -->
+    <rect x="28" y="20" width="904" height="44" rx="10" fill="#0b1324" fill-opacity="0.88" stroke="#1e293b" stroke-width="1" />
+    <circle cx="50" cy="42" r="5" fill="#38bdf8" filter="url(#glow)" />
+    <text x="64" y="46" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1">3D ISOMETRIC CLOUD &amp; APP DELIVERY TOPOLOGY</text>
+    <text x="912" y="46" text-anchor="end" fill="#38bdf8" font-family="'SFMono-Regular',Consolas,monospace" font-size="11" font-weight="600">GITOPS · EKS · OTEL</text>
+
+    <!-- 3D Conduits & Animated Packets -->
+    
+        <path d="M 135 185 L 310 156" stroke="#020617" stroke-width="8" stroke-linecap="round" opacity="0.6" />
+        <path id="pipe-0" d="M 135 185 L 310 150" stroke="url(#pipeGrad)" stroke-width="3.5" stroke-dasharray="6 4" stroke-linecap="round" />
+        <circle r="4.5" fill="#a855f7" filter="url(#glow)">
+          <animateMotion dur="2.2s" repeatCount="indefinite" path="M 135 185 L 310 150" />
+        </circle>
+        
+        <path d="M 310 150 L 485 191" stroke="#020617" stroke-width="8" stroke-linecap="round" opacity="0.6" />
+        <path id="pipe-1" d="M 310 150 L 485 185" stroke="url(#pipeGrad)" stroke-width="3.5" stroke-dasharray="6 4" stroke-linecap="round" />
+        <circle r="4.5" fill="#2dd4bf" filter="url(#glow)">
+          <animateMotion dur="2.5s" repeatCount="indefinite" path="M 310 150 L 485 185" />
+        </circle>
+        
+        <path d="M 485 185 L 660 156" stroke="#020617" stroke-width="8" stroke-linecap="round" opacity="0.6" />
+        <path id="pipe-2" d="M 485 185 L 660 150" stroke="url(#pipeGrad)" stroke-width="3.5" stroke-dasharray="6 4" stroke-linecap="round" />
+        <circle r="4.5" fill="#38bdf8" filter="url(#glow)">
+          <animateMotion dur="2.8s" repeatCount="indefinite" path="M 485 185 L 660 150" />
+        </circle>
+        
+        <path d="M 660 150 L 830 191" stroke="#020617" stroke-width="8" stroke-linecap="round" opacity="0.6" />
+        <path id="pipe-3" d="M 660 150 L 830 185" stroke="url(#pipeGrad)" stroke-width="3.5" stroke-dasharray="6 4" stroke-linecap="round" />
+        <circle r="4.5" fill="#10b981" filter="url(#glow)">
+          <animateMotion dur="3.1s" repeatCount="indefinite" path="M 660 150 L 830 185" />
+        </circle>
+        
+
+    <!-- 3D Isometric Nodes -->
+    
+        <g class="float-stage" style="animation-delay: 0.00s">
+          
+        <polygon points="135,193 213,231 135,269 57,231" fill="#020617" opacity="0.65" filter="url(#blurShadow)" />
+        <polygon points="63,195 135,233 135,255 63,217" fill="#172554" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.55" />
+        <polygon points="135,233 207,195 207,217 135,255" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.35" />
+        <polygon points="135,157 207,195 135,233 63,195" fill="#1e3a8a" stroke="#38bdf8" stroke-width="1.6" />
+        
+          
+        <polygon points="111,167 135,180.92 135,200.92 111,187" fill="#38bdf8" fill-opacity="0.38" stroke="#38bdf8" stroke-width="1.2" />
+        <polygon points="135,180.92 159,167 159,187 135,200.92" fill="#38bdf8" fill-opacity="0.22" stroke="#38bdf8" stroke-width="1.2" />
+        <polygon points="135,153.08 159,167 135,180.92 111,167" fill="#38bdf8" fill-opacity="0.65" stroke="#f8fafc" stroke-width="1.2" />
+        
+          <rect x="77" y="243" width="116" height="40" rx="8" fill="#09101f" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.7" />
+          <text x="135" y="260" text-anchor="middle" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10.5" font-weight="700">01 · SOURCE & APPS</text>
+          <text x="135" y="275" text-anchor="middle" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9.5">Git · Java · Python</text>
+        </g>
+        
+        <g class="float-stage" style="animation-delay: 0.35s">
+          
+        <polygon points="310,158 388,196 310,234 232,196" fill="#020617" opacity="0.65" filter="url(#blurShadow)" />
+        <polygon points="238,160 310,198 310,220 238,182" fill="#312e81" stroke="#a855f7" stroke-width="1" stroke-opacity="0.55" />
+        <polygon points="310,198 382,160 382,182 310,220" fill="#0f172a" stroke="#a855f7" stroke-width="1" stroke-opacity="0.35" />
+        <polygon points="310,122 382,160 310,198 238,160" fill="#1e1b4b" stroke="#a855f7" stroke-width="1.6" />
+        
+          
+        <polygon points="286,132 310,145.92 310,165.92 286,152" fill="#a855f7" fill-opacity="0.38" stroke="#a855f7" stroke-width="1.2" />
+        <polygon points="310,145.92 334,132 334,152 310,165.92" fill="#a855f7" fill-opacity="0.22" stroke="#a855f7" stroke-width="1.2" />
+        <polygon points="310,118.08 334,132 310,145.92 286,132" fill="#a855f7" fill-opacity="0.65" stroke="#f8fafc" stroke-width="1.2" />
+        
+          <rect x="252" y="208" width="116" height="40" rx="8" fill="#09101f" stroke="#a855f7" stroke-width="1" stroke-opacity="0.7" />
+          <text x="310" y="225" text-anchor="middle" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10.5" font-weight="700">02 · CI & SECURITY</text>
+          <text x="310" y="240" text-anchor="middle" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9.5">Actions · Docker · Trivy</text>
+        </g>
+        
+        <g class="float-stage" style="animation-delay: 0.70s">
+          
+        <polygon points="485,193 563,231 485,269 407,231" fill="#020617" opacity="0.65" filter="url(#blurShadow)" />
+        <polygon points="413,195 485,233 485,255 413,217" fill="#065f46" stroke="#2dd4bf" stroke-width="1" stroke-opacity="0.55" />
+        <polygon points="485,233 557,195 557,217 485,255" fill="#022c22" stroke="#2dd4bf" stroke-width="1" stroke-opacity="0.35" />
+        <polygon points="485,157 557,195 485,233 413,195" fill="#064e3b" stroke="#2dd4bf" stroke-width="1.6" />
+        
+          
+        <polygon points="461,167 485,180.92 485,200.92 461,187" fill="#2dd4bf" fill-opacity="0.38" stroke="#2dd4bf" stroke-width="1.2" />
+        <polygon points="485,180.92 509,167 509,187 485,200.92" fill="#2dd4bf" fill-opacity="0.22" stroke="#2dd4bf" stroke-width="1.2" />
+        <polygon points="485,153.08 509,167 485,180.92 461,167" fill="#2dd4bf" fill-opacity="0.65" stroke="#f8fafc" stroke-width="1.2" />
+        
+          <rect x="427" y="243" width="116" height="40" rx="8" fill="#09101f" stroke="#2dd4bf" stroke-width="1" stroke-opacity="0.7" />
+          <text x="485" y="260" text-anchor="middle" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10.5" font-weight="700">03 · GITOPS SYNC</text>
+          <text x="485" y="275" text-anchor="middle" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9.5">Argo CD · Helm Charts</text>
+        </g>
+        
+        <g class="float-stage" style="animation-delay: 1.05s">
+          
+        <polygon points="660,158 738,196 660,234 582,196" fill="#020617" opacity="0.65" filter="url(#blurShadow)" />
+        <polygon points="588,160 660,198 660,220 588,182" fill="#075985" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.55" />
+        <polygon points="660,198 732,160 732,182 660,220" fill="#082f49" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.35" />
+        <polygon points="660,122 732,160 660,198 588,160" fill="#0c4a6e" stroke="#38bdf8" stroke-width="1.6" />
+        
+          
+        <polygon points="636,132 660,145.92 660,165.92 636,152" fill="#38bdf8" fill-opacity="0.38" stroke="#38bdf8" stroke-width="1.2" />
+        <polygon points="660,145.92 684,132 684,152 660,165.92" fill="#38bdf8" fill-opacity="0.22" stroke="#38bdf8" stroke-width="1.2" />
+        <polygon points="660,118.08 684,132 660,145.92 636,132" fill="#38bdf8" fill-opacity="0.65" stroke="#f8fafc" stroke-width="1.2" />
+        
+          <rect x="602" y="208" width="116" height="40" rx="8" fill="#09101f" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.7" />
+          <text x="660" y="225" text-anchor="middle" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10.5" font-weight="700">04 · CLOUD RUNTIME</text>
+          <text x="660" y="240" text-anchor="middle" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9.5">AWS EKS · Terraform</text>
+        </g>
+        
+        <g class="float-stage" style="animation-delay: 1.40s">
+          
+        <polygon points="830,193 908,231 830,269 752,231" fill="#020617" opacity="0.65" filter="url(#blurShadow)" />
+        <polygon points="758,195 830,233 830,255 758,217" fill="#047857" stroke="#10b981" stroke-width="1" stroke-opacity="0.55" />
+        <polygon points="830,233 902,195 902,217 830,255" fill="#022c22" stroke="#10b981" stroke-width="1" stroke-opacity="0.35" />
+        <polygon points="830,157 902,195 830,233 758,195" fill="#064e3b" stroke="#10b981" stroke-width="1.6" />
+        
+          
+        <polygon points="806,167 830,180.92 830,200.92 806,187" fill="#10b981" fill-opacity="0.38" stroke="#10b981" stroke-width="1.2" />
+        <polygon points="830,180.92 854,167 854,187 830,200.92" fill="#10b981" fill-opacity="0.22" stroke="#10b981" stroke-width="1.2" />
+        <polygon points="830,153.08 854,167 830,180.92 806,167" fill="#10b981" fill-opacity="0.65" stroke="#f8fafc" stroke-width="1.2" />
+        
+          <rect x="772" y="243" width="116" height="40" rx="8" fill="#09101f" stroke="#10b981" stroke-width="1" stroke-opacity="0.7" />
+          <text x="830" y="260" text-anchor="middle" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10.5" font-weight="700">05 · OBSERVABILITY</text>
+          <text x="830" y="275" text-anchor="middle" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9.5">Prometheus · Grafana</text>
+        </g>
+        
+  </g>
+</svg>
